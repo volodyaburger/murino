@@ -4,7 +4,7 @@ const { Client, GatewayIntentBits, Partials } = require('discord.js');
 const token = process.env.DISCORD_TOKEN;
 const guildId = process.env.GUILD_ID;
 const announceChannelId = process.env.ANNOUNCE_CHANNEL_ID;
-const activityChannelId = process.env.ACTIVITY_CHANNEL_ID; // приватный канал с активностью
+const activityChannelId = process.env.ACTIVITY_CHANNEL_ID;
 
 const client = new Client({
   intents: [
@@ -23,13 +23,13 @@ async function gather() {
     await client.login(token);
 
     const guild = await client.guilds.fetch(guildId);
-    await guild.members.fetch();
+    await guild.members.fetch({ withPresences: true });
 
     const totalMembers = guild.memberCount;
-    const onlineCount = guild.members.cache.filter(m => m.presence?.status !== 'offline').size;
+    const onlineCount = guild.members.cache.filter(m => ['online','idle','dnd'].includes(m.presence?.status)).size;
     const voiceCount = guild.voiceStates.cache.size;
 
-    // --- Получение сообщений из канала объявлений ---
+    // Сообщения объявлений
     let messages = [];
     if (announceChannelId) {
       try {
@@ -48,11 +48,11 @@ async function gather() {
           }));
         }
       } catch (e) {
-        console.error('Ошибка при получении сообщений объявлений:', e);
+        console.error('Ошибка сообщений объявлений:', e);
       }
     }
 
-    // --- Получение последнего сообщения из приватного канала активности ---
+    // Последнее сообщение из приватного канала активности
     let activityMessage = null;
     if (activityChannelId) {
       try {
@@ -60,16 +60,13 @@ async function gather() {
         if (activityChannel.isTextBased()) {
           const lastMsg = await activityChannel.messages.fetch({ limit: 1 });
           const msg = lastMsg.first();
-          if (msg) {
-            activityMessage = msg.content;
-          }
+          if (msg) activityMessage = msg.content;
         }
       } catch (e) {
         console.error('Ошибка получения активности:', e);
       }
     }
 
-    // --- Сбор всех данных в один объект ---
     const out = {
       updated_at: new Date().toISOString(),
       totalMembers,
