@@ -1,38 +1,57 @@
 {
-  "updated_at": "2025-09-18T11:10:40.349Z",
+  "updated_at": "2025-09-18T11:28:48.657Z",
   "totalMembers": 24,
-  "onlineCount": 15,
+  "onlineCount": 16,
   "voiceCount": 3,
   "messages": [
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "привет это тестовое сообщение я кое что делаю не обращайте внимания",
+      "time": "2025-09-18T11:17:51.583Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1418194305872302110/photo_2025-09-17_23-46-19.jpg?ex=68cd3bdf&is=68cbea5f&hm=acaa1d869152df902dc002067af32a3f144c34636303c342d9e552385e5296bd&",
+          "contentType": "image/jpeg"
+        },
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1418194306354909215/votona.MP4?ex=68cd3bdf&is=68cbea5f&hm=98a432aa12fc8fe09b28ad76a2dbe37ad85fad326c4100f13387f66158e0a0d7&",
+          "contentType": "video/mp4"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "@everyone добавляйте новых участников и тегните меня если есть анверифнутые участники",
-      "time": "2025-09-17T11:44:38.231Z"
+      "time": "2025-09-17T11:44:38.231Z",
+      "attachments": []
     },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "мод делается совместно с огемик здесь большая ее заслуга",
-      "time": "2025-09-16T14:15:37.845Z"
+      "time": "2025-09-16T14:15:37.845Z",
+      "attachments": []
     },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "чуть спойлер",
-      "time": "2025-09-16T14:07:20.873Z"
+      "time": "2025-09-16T14:07:20.873Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1417512183733948526/image.png?ex=68ccbad8&is=68cb6958&hm=55631b5821e0a8faa8f4ec73bf3530dc240f2f31ded1e7c044fb12bb33f45348&",
+          "contentType": "image/webp"
+        }
+      ]
     },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "мой мод для сборки готов уже больше чем на половину",
-      "time": "2025-09-16T14:06:42.820Z"
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone ПОКАЗ МОДА",
-      "time": "2025-09-15T11:38:10.722Z"
+      "time": "2025-09-16T14:06:42.820Z",
+      "attachments": []
     }
   ]
 }
