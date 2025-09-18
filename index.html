@@ -3,221 +3,214 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Сервер Мурино</title>
+<title>📍Мурино</title>
 <style>
-  html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    font-family: "Segoe UI", sans-serif;
-    background-color: #2f3136;
-    color: #ffffff;
-  }
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #2f3136;
+  color: #ffffff;
+}
 
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 30px;
-    background-color: #36393f;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.5);
-    flex-shrink: 0;
-  }
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background-color: #36393f;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+  flex-shrink: 0;
+}
 
-  header h1 {
-    font-size: 20px;
-    margin: 0;
-  }
+header h1 {
+  font-size: 20px;
+  margin: 0;
+}
 
-  header button {
-    background-color: #5865F2;
-    border: none;
-    padding: 8px 15px;
-    border-radius: 5px;
-    color: white;
-    cursor: pointer;
-    font-weight: bold;
-  }
+header button {
+  background-color: #5865F2;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
 
-  header button:hover {
-    background-color: #4752c4;
-  }
+header button:hover {
+  background-color: #4752c4;
+}
 
+main {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  gap: 20px;
+  height: calc(100% - 70px);
+  box-sizing: border-box;
+}
+
+.stats {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-width: 180px;
+  flex-shrink: 0;
+}
+
+.stat-block {
+  background-color: #36393f;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  transition: transform 0.2s;
+}
+
+.stat-block:hover {
+  transform: translateY(-2px);
+}
+
+.stat-block span {
+  display: block;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.join-btn {
+  margin-top: 10px;
+  background-color: #5865F2;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+}
+
+.join-btn:hover {
+  background-color: #4752c4;
+}
+
+.activity-block {
+  flex-shrink: 0;
+  background-color: #36393f;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  margin-top: 15px;
+  text-align: center;
+}
+
+.announcements {
+  flex: 0 0 400px; /* фиксированная ширина блока объявлений */
+  max-height: 300px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.announcement-card {
+  background-color: #2f3136;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+}
+
+.announcement-card img {
+  max-width: 100%;
+  border-radius: 6px;
+  pointer-events: none;
+  user-select: none;
+  margin-top: 5px;
+}
+
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+
+@media (max-width: 800px) {
   main {
-    display: flex;
-    justify-content: space-around;
-    padding: 20px;
-    gap: 20px;
-    height: calc(100% - 70px);
-    box-sizing: border-box;
-  }
-
-  .stats {
-    display: flex;
     flex-direction: column;
-    gap: 15px;
-    min-width: 180px;
-    flex-shrink: 0;
+    align-items: center;
+    height: auto;
   }
-
-  .stat-block {
-    background-color: #36393f;
-    padding: 15px;
-    border-radius: 10px;
-    text-align: center;
-    font-size: 18px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
-    transition: transform 0.2s;
+  .stats, .announcements, .activity-block {
+    width: 90%;
   }
-
-  .stat-block:hover {
-    transform: translateY(-2px);
-  }
-
-  .stat-block span {
-    display: block;
-    font-size: 30px;
-    margin-bottom: 5px;
-  }
-
-  .join-btn {
-    margin-top: 10px;
-    background-color: #5865F2;
-    border: none;
-    padding: 10px;
-    border-radius: 8px;
-    color: white;
-    font-weight: bold;
-    cursor: pointer;
-    width: 100%;
-  }
-
-  .join-btn:hover {
-    background-color: #4752c4;
-  }
-
-  .announcements {
-    flex: 1;
-    background-color: #40444b;
-    border-radius: 10px;
-    padding: 15px;
-    max-height: 300px; /* меньше, чем раньше */
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .activity-block {
-    flex-shrink: 0;
-    background-color: #36393f;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
-    margin-top: 15px;
-    text-align: center;
-  }
-
-  .announcement-card {
-    background-color: #2f3136;
-    border-radius: 8px;
-    padding: 10px;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.5);
-    opacity: 0;
-    animation: fadeIn 0.5s forwards;
-  }
-
-  .announcement-card img {
-    max-width: 100%;
-    border-radius: 6px;
-    pointer-events: none;
-    user-select: none;
-    margin-top: 5px;
-  }
-
-  @keyframes fadeIn {
-    to { opacity: 1; }
-  }
-
-  @media (max-width: 800px) {
-    main {
-      flex-direction: column;
-      align-items: center;
-      height: auto;
-    }
-    .stats, .announcements, .activity-block {
-      width: 90%;
-    }
-  }
+}
 </style>
 </head>
 <body>
-  <header>
-    <h1>Добро пожаловать на сайт сервера 📍Мурино</h1>
-    <button onclick="switchPage()">Перейти на Minecraft</button>
-  </header>
+<header>
+  <h1>Добро пожаловать на сайт сервера 📍Мурино</h1>
+  <button onclick="switchPage()">Пикми-сборка 2.0t</button>
+</header>
 
-  <main>
-    <div class="stats">
-      <div class="stat-block"><span>👥</span> <div id="total-members">0</div> Всего участников</div>
-      <div class="stat-block"><span>💻</span> <div id="online-members">0</div> Онлайн</div>
-      <div class="stat-block"><span>🎤</span> <div id="voice-members">0</div> В войсе</div>
-      <button class="join-btn" onclick="window.open('https://discord.gg/ТВОЙ_ССЫЛКА')">Вступить в Discord</button>
+<main>
+  <div class="stats">
+    <div class="stat-block"><span>👥</span> <div id="total-members">0</div> Всего участников</div>
+    <div class="stat-block"><span>💻</span> <div id="online-members">0</div> Онлайн</div>
+    <div class="stat-block"><span>🎤</span> <div id="voice-members">0</div> В войсе</div>
+    <button class="join-btn" onclick="window.open('https://discord.gg/ТВОЙ_ССЫЛКА')">Вступить</button>
 
-      <!-- Блок активности -->
-      <div class="activity-block">
-        <h3>Текущая активность 🎮</h3>
-        <div id="current-activity">Нет данных</div>
-      </div>
+    <div class="activity-block">
+      <h3>Текущая активность 🎮</h3>
+      <div id="current-activity">Нет данных</div>
     </div>
+  </div>
 
-    <div class="announcements" id="announcements">
-      <!-- объявления подтягиваются через JS -->
-    </div>
-  </main>
+  <div class="announcements" id="announcements">
+    <!-- объявления подтягиваются через JS -->
+  </div>
+</main>
 
-  <script>
-    function switchPage() {
-      window.location.href = '/minecraft.html';
-    }
+<script>
+function switchPage() {
+  window.location.href = '/minecraft.html';
+}
 
-    async function loadData() {
-      try {
-        const res = await fetch('data.json?' + Date.now());
-        const data = await res.json();
+async function loadData() {
+  try {
+    const res = await fetch('data.json?' + Date.now());
+    const data = await res.json();
 
-        document.getElementById('total-members').textContent = data.totalMembers;
-        document.getElementById('online-members').textContent = data.onlineCount;
-        document.getElementById('voice-members').textContent = data.voiceCount;
+    document.getElementById('total-members').textContent = data.totalMembers;
+    document.getElementById('online-members').textContent = data.onlineCount;
+    document.getElementById('voice-members').textContent = data.voiceCount;
+    document.getElementById('current-activity').textContent = data.activityMessage || "Нет данных";
 
-        // обновление активности
-        document.getElementById('current-activity').textContent = data.activityMessage || "Нет данных";
+    const announcementsDiv = document.getElementById('announcements');
+    announcementsDiv.innerHTML = '';
+    (data.messages || []).forEach((m, i) => {
+      const card = document.createElement('div');
+      card.className = 'announcement-card';
+      card.style.animationDelay = `${i * 0.1}s`;
 
-        // обновление объявлений
-        const announcementsDiv = document.getElementById('announcements');
-        announcementsDiv.innerHTML = '';
-        (data.messages || []).forEach((m, i) => {
-          const card = document.createElement('div');
-          card.className = 'announcement-card';
-          card.style.animationDelay = `${i * 0.1}s`;
+      let content = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small><div>${m.content}</div>`;
+      (m.attachments || []).forEach(att => {
+        if (att.contentType?.startsWith('image')) {
+          content += `<img src="${att.url}" alt="media">`;
+        }
+      });
 
-          let content = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small><div>${m.content}</div>`;
-          (m.attachments || []).forEach(att => {
-            if (att.contentType?.startsWith('image')) {
-              content += `<img src="${att.url}" alt="media">`;
-            }
-          });
+      card.innerHTML = content;
+      announcementsDiv.appendChild(card);
+    });
+  } catch (err) {
+    console.error('Ошибка загрузки data.json', err);
+  }
+}
 
-          card.innerHTML = content;
-          announcementsDiv.appendChild(card);
-        });
-      } catch (err) {
-        console.error('Ошибка загрузки data.json', err);
-      }
-    }
-
-    loadData();
-    setInterval(loadData, 30000);
-  </script>
+loadData();
+setInterval(loadData, 180000); // обновление каждые 3 минуты
+</script>
 </body>
 </html>
