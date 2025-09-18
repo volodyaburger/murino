@@ -5,212 +5,192 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>📍Мурино</title>
 <style>
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  font-family: "Segoe UI", sans-serif;
-  background-color: #2f3136;
-  color: #ffffff;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 30px;
-  background-color: #36393f;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.5);
-  flex-shrink: 0;
-}
-
-header h1 {
-  font-size: 20px;
-  margin: 0;
-}
-
-header button {
-  background-color: #5865F2;
-  border: none;
-  padding: 8px 15px;
-  border-radius: 5px;
-  color: white;
-  cursor: pointer;
-  font-weight: bold;
-}
-
-header button:hover {
-  background-color: #4752c4;
-}
-
-main {
-  display: flex;
-  justify-content: space-around;
-  padding: 20px;
-  gap: 20px;
-  height: calc(100% - 70px);
-  box-sizing: border-box;
-}
-
-.stats {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  min-width: 180px;
-  flex-shrink: 0;
-}
-
-.stat-block {
-  background-color: #36393f;
-  padding: 15px;
-  border-radius: 10px;
-  text-align: center;
-  font-size: 18px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.5);
-  transition: transform 0.2s;
-}
-
-.stat-block:hover {
-  transform: translateY(-2px);
-}
-
-.stat-block span {
-  display: block;
-  font-size: 30px;
-  margin-bottom: 5px;
-}
-
-.join-btn {
-  margin-top: 10px;
-  background-color: #5865F2;
-  border: none;
-  padding: 10px;
-  border-radius: 8px;
-  color: white;
-  font-weight: bold;
-  cursor: pointer;
-  width: 100%;
-}
-
-.join-btn:hover {
-  background-color: #4752c4;
-}
-
-.activity-block {
-  flex-shrink: 0;
-  background-color: #36393f;
-  padding: 15px;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.5);
-  margin-top: 15px;
-  text-align: center;
-}
-
-.announcements {
-  flex: 0 0 400px; /* фиксированная ширина блока объявлений */
-  max-height: 300px;
-  overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.announcement-card {
-  background-color: #2f3136;
-  border-radius: 8px;
-  padding: 10px;
-  box-shadow: 0 1px 5px rgba(0,0,0,0.5);
-  opacity: 0;
-  animation: fadeIn 0.5s forwards;
-}
-
-.announcement-card img {
-  max-width: 100%;
-  border-radius: 6px;
-  pointer-events: none;
-  user-select: none;
-  margin-top: 5px;
-}
-
-@keyframes fadeIn {
-  to { opacity: 1; }
-}
-
-@media (max-width: 800px) {
-  main {
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #2C2F33;
+    color: #FFF;
+    display: flex;
     flex-direction: column;
     align-items: center;
-    height: auto;
+    min-height: 100vh;
   }
-  .stats, .announcements, .activity-block {
+
+  header {
+    width: 100%;
+    background: #23272A;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+
+  header button {
+    padding: 5px 12px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #7289DA;
+    color: #FFF;
+  }
+
+  main {
+    display: flex;
+    flex: 1;
     width: 90%;
+    max-width: 1200px;
+    margin-top: 20px;
+    gap: 20px;
   }
-}
+
+  .sidebar {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .stat-block {
+    background: #23272A;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .stat-block span {
+    font-size: 2rem;
+  }
+
+  .join-btn {
+    background-color: #7289DA;
+    color: #FFF;
+    border: none;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+
+  .announcements {
+    flex: 1;
+    background: #23272A;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    overflow-y: auto;
+    max-height: 600px;
+  }
+
+  .announcement {
+    background: #2C2F33;
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  .announcement .author {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .announcement img {
+    max-width: 100%;
+    border-radius: 5px;
+    pointer-events: none; /* картинки некликабельны */
+  }
+
+  .activity {
+    margin-top: 20px;
+    background: #23272A;
+    padding: 10px;
+    border-radius: 8px;
+    width: 100%;
+    text-align: center;
+  }
+
 </style>
 </head>
 <body>
-<header>
-  <h1>Добро пожаловать на сайт сервера 📍Мурино</h1>
-  <button onclick="switchPage()">Пикми-сборка 2.0t</button>
-</header>
+  <header>
+    <h1>Добро пожаловать на сайт сервера 📍Мурино</h1>
+    <button onclick="location.href='minecraft.html'">Пикми-сборка 2.0</button>
+  </header>
 
-<main>
-  <div class="stats">
-    <div class="stat-block"><span>👥</span> <div id="total-members">0</div> Всего участников</div>
-    <div class="stat-block"><span>💻</span> <div id="online-members">0</div> Онлайн</div>
-    <div class="stat-block"><span>🎤</span> <div id="voice-members">0</div> В войсе</div>
-    <button class="join-btn" onclick="window.open('https://discord.gg/ТВОЙ_ССЫЛКА')">Вступить</button>
-
-    <div class="activity-block">
-      <h3>Текущая активность 🎮</h3>
-      <div id="current-activity">Нет данных</div>
+  <main>
+    <div class="sidebar">
+      <div class="stat-block">👥 Участники: <span id="totalMembers">0</span></div>
+      <div class="stat-block">🟢 Онлайн: <span id="onlineCount">0</span></div>
+      <div class="stat-block">🎤 В войсе: <span id="voiceCount">0</span></div>
+      <button class="join-btn" onclick="window.open('https://discord.gg/твойкод', '_blank')">Вступить на сервер</button>
     </div>
-  </div>
 
-  <div class="announcements" id="announcements">
-    <!-- объявления подтягиваются через JS -->
+    <div class="announcements" id="announcements">
+      <!-- Здесь будут объявления -->
+    </div>
+  </main>
+
+  <div class="activity" id="activityMessage">
+    Последняя активность: Нет данных
   </div>
-</main>
 
 <script>
-function switchPage() {
-  window.location.href = '/minecraft.html';
-}
-
 async function loadData() {
   try {
-    const res = await fetch('data.json?' + Date.now());
+    const res = await fetch('data.json?t=' + new Date().getTime());
     const data = await res.json();
 
-    document.getElementById('total-members').textContent = data.totalMembers;
-    document.getElementById('online-members').textContent = data.onlineCount;
-    document.getElementById('voice-members').textContent = data.voiceCount;
-    document.getElementById('current-activity').textContent = data.activityMessage || "Нет данных";
+    document.getElementById('totalMembers').textContent = data.totalMembers;
+    document.getElementById('onlineCount').textContent = data.onlineCount;
+    document.getElementById('voiceCount').textContent = data.voiceCount;
 
-    const announcementsDiv = document.getElementById('announcements');
-    announcementsDiv.innerHTML = '';
-    (data.messages || []).forEach((m, i) => {
-      const card = document.createElement('div');
-      card.className = 'announcement-card';
-      card.style.animationDelay = `${i * 0.1}s`;
+    const announcements = document.getElementById('announcements');
+    announcements.innerHTML = '';
+    data.messages.forEach(msg => {
+      const block = document.createElement('div');
+      block.className = 'announcement';
+      const author = document.createElement('div');
+      author.className = 'author';
+      author.innerHTML = `${msg.author}`;
+      block.appendChild(author);
 
-      let content = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small><div>${m.content}</div>`;
-      (m.attachments || []).forEach(att => {
-        if (att.contentType?.startsWith('image')) {
-          content += `<img src="${att.url}" alt="media">`;
-        }
+      const content = document.createElement('div');
+      content.textContent = msg.content;
+      block.appendChild(content);
+
+      msg.attachments.forEach(a => {
+        const img = document.createElement('img');
+        img.src = a.url;
+        block.appendChild(img);
       });
 
-      card.innerHTML = content;
-      announcementsDiv.appendChild(card);
+      announcements.appendChild(block);
     });
+
+    // Активность
+    document.getElementById('activityMessage').textContent = 'Последняя активность: ' + (data.activityMessage || 'Нет данных');
+
   } catch (err) {
-    console.error('Ошибка загрузки data.json', err);
+    console.error('Ошибка загрузки data.json:', err);
   }
 }
 
+// Загружаем сразу и каждые 3 минуты
 loadData();
-setInterval(loadData, 180000); // обновление каждые 3 минуты
+setInterval(loadData, 180000);
 </script>
 </body>
 </html>
