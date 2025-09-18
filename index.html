@@ -1,0 +1,41 @@
+<section id="stats" class="fade-in">
+  <div class="card">Участников: <span id="members">—</span></div>
+  <div class="card">Онлайн: <span id="online">—</span></div>
+  <div class="card">В войсе: <span id="voice">—</span></div>
+  <a id="join" class="btn" href="https://discord.gg/ВАШ_CODE" target="_blank">Вступить</a>
+</section>
+
+<section id="announcements" class="fade-in delay-1">
+  <h2>Объявления</h2>
+  <div id="messages"></div>
+</section>
+
+<style>
+.fade-in { opacity: 0; transform: translateY(10px); animation: appear 0.6s forwards; }
+.delay-1 { animation-delay: 0.2s; }
+@keyframes appear { to { opacity: 1; transform: translateY(0); } }
+.card { padding:12px; margin:6px 0; border-radius:8px; background: rgba(255,255,255,0.03); }
+.btn { display:inline-block; padding:10px 16px; border-radius:10px; background:#5865F2; color:white; text-decoration:none; }
+</style>
+
+<script>
+async function loadData() {
+  try {
+    const r = await fetch('data.json?' + Date.now());
+    const d = await r.json();
+    document.getElementById('members').textContent = d.totalMembers;
+    document.getElementById('online').textContent = d.onlineCount;
+    document.getElementById('voice').textContent = d.voiceCount;
+    const messagesDiv = document.getElementById('messages');
+    messagesDiv.innerHTML = '';
+    (d.messages || []).forEach(m => {
+      const el = document.createElement('div');
+      el.className = 'card';
+      el.innerHTML = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small><div>${m.content}</div>`;
+      messagesDiv.appendChild(el);
+    });
+  } catch(e){ console.warn('data.json не загрузился', e); }
+}
+loadData();
+setInterval(loadData, 60000);
+</script>
