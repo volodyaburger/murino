@@ -63,6 +63,7 @@ async function gather() {
 
     // --- Последнее сообщение из приватного канала активности ---
     let activityMessage = null;
+    let activityStatus = 'Нет данных';
     if (activityChannelId) {
       try {
         console.log('🎯 Проверка канала активности:', activityChannelId);
@@ -77,17 +78,21 @@ async function gather() {
           console.log('Объект последнего сообщения:', msg);
 
           if (msg) {
-            console.log('Содержимое активности:', msg.content);
-            activityMessage = msg.content;
+            activityMessage = msg.content || null;
+            activityStatus = msg.content ? msg.content : 'Сообщение без текста';
+            console.log('Содержимое активности:', activityMessage);
           } else {
-            console.log('⚠️ В канале активности нет сообщений или бот не имеет доступа');
+            activityStatus = 'В канале активности нет сообщений или бот не имеет доступа';
+            console.log('⚠️', activityStatus);
           }
         }
       } catch (err) {
+        activityStatus = 'Ошибка доступа к каналу активности';
         console.error('Ошибка получения активности:', err.message);
       }
     } else {
       console.warn('⚠️ ACTIVITY_CHANNEL_ID не задан');
+      activityStatus = 'ACTIVITY_CHANNEL_ID не задан';
     }
 
     // --- Сбор всех данных ---
@@ -97,7 +102,8 @@ async function gather() {
       onlineCount,
       voiceCount,
       messages,
-      activityMessage
+      activityMessage,
+      activityStatus
     };
 
     fs.writeFileSync('../data.json', JSON.stringify(out, null, 2));
