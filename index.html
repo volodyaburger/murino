@@ -48,7 +48,7 @@
     justify-content: space-around;
     padding: 20px;
     gap: 20px;
-    height: calc(100% - 70px); /* под header */
+    height: calc(100% - 70px);
     box-sizing: border-box;
   }
 
@@ -101,10 +101,21 @@
     background-color: #40444b;
     border-radius: 10px;
     padding: 15px;
+    max-height: 300px; /* меньше, чем раньше */
     overflow-y: auto;
     display: flex;
     flex-direction: column;
     gap: 10px;
+  }
+
+  .activity-block {
+    flex-shrink: 0;
+    background-color: #36393f;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    margin-top: 15px;
+    text-align: center;
   }
 
   .announcement-card {
@@ -119,7 +130,7 @@
   .announcement-card img {
     max-width: 100%;
     border-radius: 6px;
-    pointer-events: none; /* некликабельные картинки */
+    pointer-events: none;
     user-select: none;
     margin-top: 5px;
   }
@@ -134,7 +145,7 @@
       align-items: center;
       height: auto;
     }
-    .stats, .announcements {
+    .stats, .announcements, .activity-block {
       width: 90%;
     }
   }
@@ -152,6 +163,12 @@
       <div class="stat-block"><span>💻</span> <div id="online-members">0</div> Онлайн</div>
       <div class="stat-block"><span>🎤</span> <div id="voice-members">0</div> В войсе</div>
       <button class="join-btn" onclick="window.open('https://discord.gg/ТВОЙ_ССЫЛКА')">Вступить в Discord</button>
+
+      <!-- Блок активности -->
+      <div class="activity-block">
+        <h3>Текущая активность 🎮</h3>
+        <div id="current-activity">Нет данных</div>
+      </div>
     </div>
 
     <div class="announcements" id="announcements">
@@ -173,6 +190,10 @@
         document.getElementById('online-members').textContent = data.onlineCount;
         document.getElementById('voice-members').textContent = data.voiceCount;
 
+        // обновление активности
+        document.getElementById('current-activity').textContent = data.activityMessage || "Нет данных";
+
+        // обновление объявлений
         const announcementsDiv = document.getElementById('announcements');
         announcementsDiv.innerHTML = '';
         (data.messages || []).forEach((m, i) => {
@@ -196,7 +217,7 @@
     }
 
     loadData();
-    setInterval(loadData, 30000); // обновление каждые 30 секунд
+    setInterval(loadData, 30000);
   </script>
 </body>
 </html>
