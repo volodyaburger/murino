@@ -5,8 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Сервер Мурино</title>
 <style>
-  body {
+  html, body {
     margin: 0;
+    padding: 0;
+    height: 100%;
     font-family: "Segoe UI", sans-serif;
     background-color: #2f3136;
     color: #ffffff;
@@ -19,6 +21,7 @@
     padding: 15px 30px;
     background-color: #36393f;
     box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+    flex-shrink: 0;
   }
 
   header h1 {
@@ -45,6 +48,8 @@
     justify-content: space-around;
     padding: 20px;
     gap: 20px;
+    height: calc(100% - 70px); /* под header */
+    box-sizing: border-box;
   }
 
   .stats {
@@ -52,6 +57,7 @@
     flex-direction: column;
     gap: 15px;
     min-width: 180px;
+    flex-shrink: 0;
   }
 
   .stat-block {
@@ -95,7 +101,6 @@
     background-color: #40444b;
     border-radius: 10px;
     padding: 15px;
-    max-height: 500px;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
@@ -121,6 +126,17 @@
 
   @keyframes fadeIn {
     to { opacity: 1; }
+  }
+
+  @media (max-width: 800px) {
+    main {
+      flex-direction: column;
+      align-items: center;
+      height: auto;
+    }
+    .stats, .announcements {
+      width: 90%;
+    }
   }
 </style>
 </head>
@@ -149,30 +165,34 @@
     }
 
     async function loadData() {
-      const res = await fetch('data.json?' + Date.now());
-      const data = await res.json();
+      try {
+        const res = await fetch('data.json?' + Date.now());
+        const data = await res.json();
 
-      document.getElementById('total-members').textContent = data.totalMembers;
-      document.getElementById('online-members').textContent = data.onlineCount;
-      document.getElementById('voice-members').textContent = data.voiceCount;
+        document.getElementById('total-members').textContent = data.totalMembers;
+        document.getElementById('online-members').textContent = data.onlineCount;
+        document.getElementById('voice-members').textContent = data.voiceCount;
 
-      const announcementsDiv = document.getElementById('announcements');
-      announcementsDiv.innerHTML = '';
-      (data.messages || []).forEach((m, i) => {
-        const card = document.createElement('div');
-        card.className = 'announcement-card';
-        card.style.animationDelay = `${i * 0.1}s`; // плавное появление
+        const announcementsDiv = document.getElementById('announcements');
+        announcementsDiv.innerHTML = '';
+        (data.messages || []).forEach((m, i) => {
+          const card = document.createElement('div');
+          card.className = 'announcement-card';
+          card.style.animationDelay = `${i * 0.1}s`;
 
-        let content = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small><div>${m.content}</div>`;
-        (m.attachments || []).forEach(att => {
-          if (att.contentType?.startsWith('image')) {
-            content += `<img src="${att.url}" alt="media">`;
-          }
+          let content = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small><div>${m.content}</div>`;
+          (m.attachments || []).forEach(att => {
+            if (att.contentType?.startsWith('image')) {
+              content += `<img src="${att.url}" alt="media">`;
+            }
+          });
+
+          card.innerHTML = content;
+          announcementsDiv.appendChild(card);
         });
-
-        card.innerHTML = content;
-        announcementsDiv.appendChild(card);
-      });
+      } catch (err) {
+        console.error('Ошибка загрузки data.json', err);
+      }
     }
 
     loadData();
