@@ -29,11 +29,26 @@ async function loadData() {
     const messagesDiv = document.getElementById('messages');
     messagesDiv.innerHTML = '';
     (d.messages || []).forEach(m => {
-      const el = document.createElement('div');
-      el.className = 'card';
-      el.innerHTML = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small><div>${m.content}</div>`;
-      messagesDiv.appendChild(el);
-    });
+  const el = document.createElement('div');
+  el.className = 'card';
+  el.innerHTML = `<b>${m.author}</b> <small>${new Date(m.time).toLocaleString()}</small>
+                  <div>${m.content}</div>`;
+  
+  // добавляем медиа
+  (m.attachments || []).forEach(att => {
+    if (att.contentType?.startsWith('image')) {
+      const img = document.createElement('img');
+      img.src = att.url;
+      img.style.maxWidth = '100%';
+      img.style.borderRadius = '8px';
+      img.style.marginTop = '6px';
+      el.appendChild(img);
+    }
+    // можно добавить обработку видео или других типов
+  });
+
+  messagesDiv.appendChild(el);
+});
   } catch(e){ console.warn('data.json не загрузился', e); }
 }
 loadData();
