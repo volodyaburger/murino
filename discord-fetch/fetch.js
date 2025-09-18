@@ -42,7 +42,7 @@ async function gather() {
   }
 
   const out = { updated_at: new Date().toISOString(), totalMembers, onlineCount, voiceCount, messages };
-  fs.writeFileSync('data.json', JSON.stringify(out, null, 2));
+  fs.writeFileSync('../data.json', JSON.stringify(out, null, 2));
   console.log("data.json updated");
   await client.destroy();
   process.exit(0);
