@@ -21,19 +21,23 @@ const client = new Client({
 async function gather() {
   try {
     await client.login(token);
+    console.log('Бот вошёл в Discord');
 
     const guild = await client.guilds.fetch(guildId);
     await guild.members.fetch({ withPresences: true });
+    console.log(`Сервер: ${guild.name}`);
 
     const totalMembers = guild.memberCount;
     const onlineCount = guild.members.cache.filter(m => ['online','idle','dnd'].includes(m.presence?.status)).size;
     const voiceCount = guild.voiceStates.cache.size;
 
-    // Сообщения объявлений
+    // --- Сообщения канала объявлений ---
     let messages = [];
     if (announceChannelId) {
       try {
         const channel = await client.channels.fetch(announceChannelId);
+        console.log('Канал объявлений найден:', channel.name);
+
         if (channel.isTextBased()) {
           const fetched = await channel.messages.fetch({ limit: 5 });
           messages = fetched.map(m => ({
@@ -47,26 +51,40 @@ async function gather() {
             }))
           }));
         }
-      } catch (e) {
-        console.error('Ошибка сообщений объявлений:', e);
+      } catch (err) {
+        console.error('Ошибка получения сообщений объявлений:', err.message);
       }
+    } else {
+      console.warn('ACTIVITY_CHANNEL_ID не задан');
     }
 
-    // Последнее сообщение из приватного канала активности
+    // --- Последнее сообщение из приватного канала активности ---
     let activityMessage = null;
     if (activityChannelId) {
       try {
         const activityChannel = await client.channels.fetch(activityChannelId);
+        console.log('Канал активности найден:', activityChannel.name);
+
         if (activityChannel.isTextBased()) {
           const lastMsg = await activityChannel.messages.fetch({ limit: 1 });
+          console.log('Количество сообщений в активности:', lastMsg.size);
+
           const msg = lastMsg.first();
-          if (msg) activityMessage = msg.content;
+          if (msg) {
+            console.log('Сообщение активности:', msg.content);
+            activityMessage = msg.content;
+          } else {
+            console.log('В канале активности нет сообщений или бот не имеет доступа');
+          }
         }
-      } catch (e) {
-        console.error('Ошибка получения активности:', e);
+      } catch (err) {
+        console.error('Ошибка получения активности:', err.message);
       }
+    } else {
+      console.warn('ACTIVITY_CHANNEL_ID не задан');
     }
 
+    // --- Сбор всех данных ---
     const out = {
       updated_at: new Date().toISOString(),
       totalMembers,
@@ -77,7 +95,7 @@ async function gather() {
     };
 
     fs.writeFileSync('../data.json', JSON.stringify(out, null, 2));
-    console.log("data.json обновлён");
+    console.log('data.json обновлён');
 
     await client.destroy();
     process.exit(0);
