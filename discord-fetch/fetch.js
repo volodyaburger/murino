@@ -44,6 +44,7 @@ const voiceCount = guild.channels.cache
         avatar: m.author.displayAvatarURL(),
         content: m.content,
         time: m.createdAt.toISOString()
+        attachments: m.attachments.map(a => ({ url: a.url, contentType: a.contentType }))
       }));
     }
   }
