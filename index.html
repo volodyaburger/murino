@@ -3,131 +3,31 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>📍Мурино</title>
+<title>Сервер Мурино</title>
 <style>
-  body {
-    margin: 0;
-    font-family: 'Segoe UI', sans-serif;
-    background: #2C2F33;
-    color: #FFF;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-height: 100vh;
-  }
+  body { margin:0; font-family:'Segoe UI',sans-serif; background:#2C2F33; color:#FFF; display:flex; flex-direction:column; align-items:center; min-height:100vh; }
+  header { width:100%; background:#23272A; padding:15px 20px; display:flex; justify-content:space-between; align-items:center; box-sizing:border-box; }
+  header h1 { font-size:1.5rem; }
+  header button { padding:5px 12px; font-size:0.9rem; cursor:pointer; border:none; border-radius:5px; background-color:#7289DA; color:#FFF; }
 
-  header {
-    width: 100%;
-    background: #23272A;
-    padding: 15px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    box-sizing: border-box;
-  }
+  main { display:flex; flex:1; width:90%; max-width:1200px; margin-top:20px; gap:20px; }
+  .sidebar { width:250px; display:flex; flex-direction:column; gap:15px; }
+  .stat-block { background:#23272A; padding:15px; border-radius:10px; text-align:center; font-size:1.1rem; display:flex; flex-direction:column; gap:5px; }
+  .stat-block span { font-size:2rem; }
+  .join-btn { background-color:#7289DA; color:#FFF; border:none; padding:10px; font-size:1rem; border-radius:8px; cursor:pointer; margin-top:10px; }
 
-  header h1 {
-    font-size: 1.5rem;
-  }
+  .announcements { flex:1; background:#23272A; border-radius:10px; padding:15px; display:flex; flex-direction:column; gap:15px; overflow-y:auto; max-height:600px; }
+  .announcement { background:#2C2F33; padding:10px; border-radius:8px; }
+  .announcement .author { font-weight:bold; display:flex; align-items:center; gap:10px; }
+  .announcement img { max-width:100%; border-radius:5px; pointer-events:none; }
 
-  header button {
-    padding: 5px 12px;
-    font-size: 0.9rem;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-    background-color: #7289DA;
-    color: #FFF;
-  }
-
-  main {
-    display: flex;
-    flex: 1;
-    width: 90%;
-    max-width: 1200px;
-    margin-top: 20px;
-    gap: 20px;
-  }
-
-  .sidebar {
-    width: 250px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-  }
-
-  .stat-block {
-    background: #23272A;
-    padding: 15px;
-    border-radius: 10px;
-    text-align: center;
-    font-size: 1.1rem;
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-  }
-
-  .stat-block span {
-    font-size: 2rem;
-  }
-
-  .join-btn {
-    background-color: #7289DA;
-    color: #FFF;
-    border: none;
-    padding: 10px;
-    font-size: 1rem;
-    border-radius: 8px;
-    cursor: pointer;
-    margin-top: 10px;
-  }
-
-  .announcements {
-    flex: 1;
-    background: #23272A;
-    border-radius: 10px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    overflow-y: auto;
-    max-height: 600px;
-  }
-
-  .announcement {
-    background: #2C2F33;
-    padding: 10px;
-    border-radius: 8px;
-  }
-
-  .announcement .author {
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .announcement img {
-    max-width: 100%;
-    border-radius: 5px;
-    pointer-events: none; /* картинки некликабельны */
-  }
-
-  .activity {
-    margin-top: 20px;
-    background: #23272A;
-    padding: 10px;
-    border-radius: 8px;
-    width: 100%;
-    text-align: center;
-  }
-
+  .activity { margin-top:20px; background:#23272A; padding:10px; border-radius:8px; width:100%; text-align:center; }
 </style>
 </head>
 <body>
   <header>
     <h1>Добро пожаловать на сайт сервера 📍Мурино</h1>
-    <button onclick="location.href='minecraft.html'">Пикми-сборка 2.0</button>
+    <button onclick="location.href='minecraft.html'">Перейти на Minecraft</button>
   </header>
 
   <main>
@@ -138,14 +38,10 @@
       <button class="join-btn" onclick="window.open('https://discord.gg/твойкод', '_blank')">Вступить на сервер</button>
     </div>
 
-    <div class="announcements" id="announcements">
-      <!-- Здесь будут объявления -->
-    </div>
+    <div class="announcements" id="announcements"></div>
   </main>
 
-  <div class="activity" id="activityMessage">
-    Последняя активность: Нет данных
-  </div>
+  <div class="activity" id="activityMessage">Последняя активность: Нет данных</div>
 
 <script>
 async function loadData() {
@@ -180,15 +76,13 @@ async function loadData() {
       announcements.appendChild(block);
     });
 
-    // Активность
-    document.getElementById('activityMessage').textContent = 'Последняя активность: ' + (data.activityMessage || 'Нет данных');
+    document.getElementById('activityMessage').textContent = 'Последняя активность: ' + (data.activityMessage || data.activityStatus || 'Нет данных');
 
   } catch (err) {
     console.error('Ошибка загрузки data.json:', err);
   }
 }
 
-// Загружаем сразу и каждые 3 минуты
 loadData();
 setInterval(loadData, 180000);
 </script>
