@@ -35,21 +35,29 @@ const voiceCount = guild.channels.cache
 
 
   let messages = [];
-  if (announceChannelId) {
-    const channel = await client.channels.fetch(announceChannelId);
-    if (channel.isTextBased()) {
-      const fetched = await channel.messages.fetch({ limit: 5 });
-      messages = fetched.map(m => ({
+if (announceChannelId) {
+  const channel = await client.channels.fetch(announceChannelId);
+  if (channel.isTextBased()) {
+    const fetched = await channel.messages.fetch({ limit: 5 });
+    messages = fetched.map(m => {
+      const attachments = [];
+      m.attachments.forEach(a => {
+        attachments.push({
+          url: a.url,
+          contentType: a.contentType
+        });
+      });
+
+      return {
         author: m.author.username,
         avatar: m.author.displayAvatarURL(),
         content: m.content,
-        time: m.createdAt.toISOString()
-        attachments: [...m.attachments.values()].map(function(a) {
-  return { url: a.url, contentType: a.contentType };
-})
-      }));
-    }
+        time: m.createdAt.toISOString(),
+        attachments: attachments
+      };
+    });
   }
+}
 
   const out = { updated_at: new Date().toISOString(), totalMembers, onlineCount, voiceCount, messages };
   fs.writeFileSync('../data.json', JSON.stringify(out, null, 2));
