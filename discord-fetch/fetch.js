@@ -23,9 +23,16 @@ async function gather() {
   const guild = await client.guilds.fetch(guildId);
   await guild.members.fetch();
 
-  const totalMembers = guild.memberCount;
-  const onlineCount = guild.members.cache.filter(m => m.presence?.status !== 'offline').size;
-  const voiceCount = guild.voiceStates.cache.size;
+const totalMembers = guild.memberCount;
+
+const onlineCount = guild.members.cache.filter(
+  m => m.presence?.status && m.presence.status !== 'offline'
+).size;
+
+const voiceCount = guild.channels.cache
+  .filter(ch => ch.isVoiceBased())
+  .reduce((acc, ch) => acc + ch.members.size, 0);
+
 
   let messages = [];
   if (announceChannelId) {
