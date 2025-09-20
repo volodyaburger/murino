@@ -1,51 +1,42 @@
 {
-  "updated_at": "2025-09-20T17:17:44.787Z",
+  "updated_at": "2025-09-20T17:29:13.501Z",
   "totalMembers": 25,
-  "onlineCount": 9,
-  "voiceCount": 2,
+  "onlineCount": 7,
+  "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "",
+      "time": "2025-09-20T17:21:41.023Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "а в среду все будет готово",
+      "time": "2025-09-20T17:21:26.056Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "в субботу просто наверное всем удобнее будет",
+      "time": "2025-09-20T17:21:22.870Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "завтра утром доделаю мод и начну тестить сборку и сервер\nстарт в среду/субботу\n@everyone",
+      "time": "2025-09-20T17:21:10.816Z",
+      "attachments": []
+    },
     {
       "author": "gimmebrock_metky",
       "avatar": "https://cdn.discordapp.com/avatars/444379963471429632/b18a173e8db19ffb362263209a02c3d9.webp",
       "content": "https://tenor.com/view/mellstroy-gif-7888322133076324940",
       "time": "2025-09-20T04:22:43.755Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone пишите сука",
-      "time": "2025-09-19T12:41:35.483Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone привет я готовлюсь к запуску новой сборки может каждый кто планирует играть отправить мне свой ник в майнкрафте в лс для добавления в вайтлист (лицензия/пиратка)\n\nполучил :\n<@726333602257829929>\n<@444379963471429632>\n<@885138792133050439> \n<@1097807574646132767> \n<@590771001067831296> \n<@1104079419674480680> \n<@1040461108449910835> \n<@877203296870355025> \nот остальных ждду",
-      "time": "2025-09-19T10:22:53.576Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "привет это тестовое сообщение я кое что делаю не обращайте внимания",
-      "time": "2025-09-18T11:17:51.583Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1418194305872302110/photo_2025-09-17_23-46-19.jpg?ex=68cfdedf&is=68ce8d5f&hm=a1bfdce0ac0e41b92f0c322c46978e313fe88ca86e34197a89e0fe549cd30ba9&",
-          "contentType": "image/jpeg"
-        },
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1418194306354909215/votona.MP4?ex=68cfdedf&is=68ce8d5f&hm=de197f6b25f87fb652cf23cbe5d57654365277c3ac7ae967970ab58c5dc776cd&",
-          "contentType": "video/mp4"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone добавляйте новых участников и тегните меня если есть анверифнутые участники",
-      "time": "2025-09-17T11:44:38.231Z",
       "attachments": []
     }
   ]
