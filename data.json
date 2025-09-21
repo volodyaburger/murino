@@ -1,9 +1,28 @@
 {
-  "updated_at": "2025-09-21T11:59:09.828Z",
+  "updated_at": "2025-09-21T12:47:52.714Z",
   "totalMembers": 25,
   "onlineCount": 19,
-  "voiceCount": 7,
+  "voiceCount": 6,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "оно анимированное если что",
+      "time": "2025-09-21T12:44:34.211Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "я просто настраиваю сижу пресеты и решил показать вам то что я вижу каждую секунду",
+      "time": "2025-09-21T12:44:20.163Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1419303232747864196/image.png?ex=68d144a4&is=68cff324&hm=c51d6690cf393dabc31bba05935ddbc02c6a88cd5cbf59d38219d1a65376b240&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -26,7 +45,7 @@
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "кто хочет играть в пикми сборку пожалуйста отпишите мне в личку если в списках нет вашего ника\n\nкак все будет готово отпишу поспрашиваю в лс тем кого здесь нет\n@everyone",
+      "content": "кто хочет играть в пикми сборку пожалуйста отпишите мне в личку если в списках нет вашего ника\n\nкак все будет готово отпишу поспрашиваю в лс тем кого здесь нет\n@everyone\n\n\n||+AMklimflint||",
       "time": "2025-09-21T03:46:56.399Z",
       "attachments": [
         {
@@ -34,20 +53,6 @@
           "contentType": "image/webp"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "",
-      "time": "2025-09-20T17:21:41.023Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "а в среду все будет готово",
-      "time": "2025-09-20T17:21:26.056Z",
-      "attachments": []
     }
   ]
 }
