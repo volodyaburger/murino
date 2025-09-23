@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-09-23T16:50:23.027Z",
+  "updated_at": "2025-09-23T17:29:41.905Z",
   "totalMembers": 25,
   "onlineCount": 8,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "",
+      "time": "2025-09-23T17:21:43.872Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -41,13 +48,6 @@
           "contentType": "image/png"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "СТАРТ ПИКМИ СБОРКИ В СУББОТУ (27.09) В 17:00 ПО ВЛАДИВОСТОКУ (+7 мск)\nПОЖАЛУЙСТА ОТПИШИТЕ МНЕ ЕСЛИ ХОТИТЕ ИГРАТЬ\n\nдоступ к сборке будет либо вечером 26 сентября, либо днем 27 сентября\n\nбудет инструкция по установке, какая версия и конфиг с настройками на выбор под пк",
-      "time": "2025-09-21T10:02:26.969Z",
-      "attachments": []
     }
   ]
 }
