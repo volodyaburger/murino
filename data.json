@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-09-24T09:27:36.875Z",
+  "updated_at": "2025-09-24T09:43:01.524Z",
   "totalMembers": 25,
   "onlineCount": 15,
-  "voiceCount": 2,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "ПРИВЕТ ПРОДАМ СЛИВ 9МАЙСА ПИСАТЬ В ТГ @ volodyaburger\n@everyone",
+      "time": "2025-09-24T09:36:16.510Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -34,18 +41,6 @@
         {
           "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1419303232747864196/image.png?ex=68d49064&is=68d33ee4&hm=46f27dbecc353f6c0947805f406296d1e2c62f3bb3a98b98f59686835059c1cb&",
           "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "",
-      "time": "2025-09-21T11:45:09.036Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1419288338367516752/image.png?ex=68d48284&is=68d33104&hm=e6abcc2109dca975d27abaa3fbadbec46a737c374f47b6ae153ac485d06244cb&",
-          "contentType": "image/png"
         }
       ]
     }
