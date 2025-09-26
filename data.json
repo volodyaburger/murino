@@ -1,9 +1,23 @@
 {
-  "updated_at": "2025-09-26T12:51:23.547Z",
+  "updated_at": "2025-09-26T13:27:04.173Z",
   "totalMembers": 26,
-  "onlineCount": 12,
-  "voiceCount": 8,
+  "onlineCount": 15,
+  "voiceCount": 10,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "если у вас есть друзья которым явно бы хотелось поиграть в майнкрафт приглашайте йоу",
+      "time": "2025-09-26T13:05:32.786Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "по моим скромным подсчетам нас будет до 14 человек пока что\\",
+      "time": "2025-09-26T13:05:21.243Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -24,29 +38,6 @@
       "content": "@everyone также, вы не можете просто например жить со мной или любым другим человеком, соберитесь парами или отрядами\nте кто будут пытаться со мной заселиться без моего ведома убью нахуй, надеюсь остальные будут делать также\n\nЗАРАНЕЕ ОПРЕДЕЛИТЕСЬ ОТПИШИТЕ СВОИМ ДРУЗЬЯМ КТО С КЕМ",
       "time": "2025-09-26T12:11:19.608Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone поставьте на это сообщение реакцию те, кто поставил сборку",
-      "time": "2025-09-26T11:58:03.997Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "ПИКМИ-СБОРКА 2.0\nайпи сервера : murino.mspt.xyz\nверсия : 1.20.1 forge (47.4.0)\nСтарт игры : 10:00 МСК, 17:00 родное мамино время ❤️ \n\nИНСТРУКЦИЯ ПО СКАЧИВАНИЮ\n1. Скачайте сборку любым удобным вам способом, ссылки ниже\n2. Откройте архив со сборкой и перекиньте **3 папки** в папку с майнкрафтом (скриншот 1)\n\n**ДАЛЬШЕ НЕОБЯЗАТЕЛЬНО, НО ОЧЕНЬ И ОЧЕНЬ ЖЕЛАТЕЛЬНО**\n\nНастроенные мной пресеты! В них уже настроен язык и графика под разные компы\n\n1. Зайдите в телеграм с пресетами (ссылка ниже) и выберите под себя пресет\nВ этом телеграм канале 5 пресетов, у каждого в сообщении есть кнопка скачать перекидывающая на гугл диск, или архив под сообщением\nПерекиньте все файлы из скачанного архива в папку майнкрафта **С ЗАМЕНОЙ** (скриншот 2)\n\n**Что сделать после скачивания?**\nЗайдите в настройки, управление и поставьте на \"Перезагрузить шейдеры\" неиспользуемую клавишу, или разбиндите вовсе, иначе вы ОЧЕНЬ ЗАЕБЕТЕСЬ, иначе на R у вас будет залагивать игра\n\nССЫЛКИ НА ВСЕ :\nСсылки на сборку :\n[Яндекс Диск](https://disk.yandex.ru/d/bW0aJvqJB7V0mg)\n[Гугл Диск](https://drive.google.com/file/d/1ZXBgeQg0QEOwCz5QyJZSbV_vnVJV_Q72/view?usp=sharing)\n\nСсылка на телеграм канал с пресетами :\n[murinopresets](https://t.me/murinopresets)\n\n||@everyone||",
-      "time": "2025-09-26T11:06:21.415Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1421090515344031919/image.png?ex=68d7c52d&is=68d673ad&hm=4591db5f07ab677fa51f65935ac52ef588fe705ece7f1ed0846a91d6972d6d69&",
-          "contentType": "image/png"
-        },
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1421090515838963712/image.png?ex=68d7c52d&is=68d673ad&hm=eda4d0cf411b0c49c2b7a9416aeb4ffdee69a43726ac6e9ee10b12220db9290d&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
