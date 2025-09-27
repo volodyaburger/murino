@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-09-27T11:14:08.223Z",
+  "updated_at": "2025-09-27T11:26:07.179Z",
   "totalMembers": 28,
-  "onlineCount": 17,
+  "onlineCount": 16,
   "voiceCount": 9,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "@everyone зайдите побольше людей надо чтоб тпс просел",
+      "time": "2025-09-27T11:16:34.791Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -31,18 +38,6 @@
       "content": "",
       "time": "2025-09-27T08:28:52.158Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "",
-      "time": "2025-09-27T07:43:58.919Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1421401973424656404/image.png?ex=68d8e73e&is=68d795be&hm=d0c51bd4c38befb1274667e092d0ef47b32e3d4b8c2cf7d8b68efbf6adf84128&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
