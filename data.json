@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-09-27T15:40:00.938Z",
+  "updated_at": "2025-09-27T15:50:23.045Z",
   "totalMembers": 28,
-  "onlineCount": 15,
-  "voiceCount": 6,
+  "onlineCount": 16,
+  "voiceCount": 7,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "@everyone захадитi",
+      "time": "2025-09-27T15:41:11.721Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -30,13 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "@everyone СЕРВЕР ДОСТУПЕН ЗАХАДИТ.",
       "time": "2025-09-27T10:42:00.330Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone заходитеe",
-      "time": "2025-09-27T09:15:35.571Z",
       "attachments": []
     }
   ]
