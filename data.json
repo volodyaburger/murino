@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-09-28T11:48:32.818Z",
+  "updated_at": "2025-09-28T11:59:06.733Z",
   "totalMembers": 28,
   "onlineCount": 16,
   "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "ровно через месяц пикми сборе 1.0 будет целый год",
+      "time": "2025-09-28T11:54:37.290Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -30,13 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "@everyone володя бургер долбаеб крашнул сервер",
       "time": "2025-09-28T08:23:03.616Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone захадитi",
-      "time": "2025-09-27T15:41:11.721Z",
       "attachments": []
     }
   ]
