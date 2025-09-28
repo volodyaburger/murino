@@ -1,9 +1,23 @@
 {
-  "updated_at": "2025-09-28T14:55:21.311Z",
+  "updated_at": "2025-09-28T15:15:19.662Z",
   "totalMembers": 28,
-  "onlineCount": 15,
+  "onlineCount": 16,
   "voiceCount": 5,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "захадиn",
+      "time": "2025-09-28T15:00:37.871Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "@everyone захал",
+      "time": "2025-09-28T15:00:26.933Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -23,20 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "@everyone запущен",
       "time": "2025-09-28T08:24:00.365Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "щас рестарт",
-      "time": "2025-09-28T08:23:05.495Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone володя бургер долбаеб крашнул сервер",
-      "time": "2025-09-28T08:23:03.616Z",
       "attachments": []
     }
   ]
