@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-09-29T14:50:36.076Z",
+  "updated_at": "2025-09-29T15:19:05.188Z",
   "totalMembers": 28,
-  "onlineCount": 15,
-  "voiceCount": 0,
+  "onlineCount": 14,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "<@791272213973958686> МЕГА ПЛАТОН С ДР \n@everyone",
+      "time": "2025-09-29T15:05:39.830Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -35,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "захадиn",
       "time": "2025-09-28T15:00:37.871Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone захал",
-      "time": "2025-09-28T15:00:26.933Z",
       "attachments": []
     }
   ]
