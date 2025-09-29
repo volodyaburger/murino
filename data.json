@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-09-29T10:21:25.439Z",
+  "updated_at": "2025-09-29T10:43:41.725Z",
   "totalMembers": 28,
   "onlineCount": 16,
-  "voiceCount": 5,
+  "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "@everyone заходите",
+      "time": "2025-09-29T10:25:40.899Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -35,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "ровно через месяц пикми сборе 1.0 будет целый год",
       "time": "2025-09-28T11:54:37.290Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone заходите",
-      "time": "2025-09-28T09:46:56.802Z",
       "attachments": []
     }
   ]
