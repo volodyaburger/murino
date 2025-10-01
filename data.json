@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-10-01T08:30:04.053Z",
+  "updated_at": "2025-10-01T08:50:11.416Z",
   "totalMembers": 28,
   "onlineCount": 14,
-  "voiceCount": 6,
+  "voiceCount": 5,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
+      "content": "@everyone сервер лагает потому что карты из алекс кейвс ГОВНО",
+      "time": "2025-10-01T08:31:48.117Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
@@ -30,13 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
       "content": "@everyone заходите",
       "time": "2025-09-29T12:04:07.026Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/80a9e2631c2a62c253dd2acc3e1b7db6.webp",
-      "content": "@everyone заходите",
-      "time": "2025-09-29T10:25:40.899Z",
       "attachments": []
     }
   ]
