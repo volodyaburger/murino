@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-10-07T11:40:35.368Z",
+  "updated_at": "2025-10-07T11:55:12.703Z",
   "totalMembers": 27,
   "onlineCount": 14,
   "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
+      "content": "@everyone мы взорвали все на сервере, сервер будет работать свои последние полтора суток, можете успеть попрощаться со всем",
+      "time": "2025-10-07T11:48:03.167Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
@@ -41,13 +48,6 @@
           "contentType": "image/png"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
-      "content": "рестарчуч",
-      "time": "2025-10-01T09:43:03.033Z",
-      "attachments": []
     }
   ]
 }
