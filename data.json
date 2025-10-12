@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-10-12T09:36:46.499Z",
+  "updated_at": "2025-10-12T09:47:04.012Z",
   "totalMembers": 27,
   "onlineCount": 15,
   "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
+      "content": "@everyone \nhttps://youtu.be/_r5TPufRgAo",
+      "time": "2025-10-12T09:40:29.323Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
@@ -33,18 +40,6 @@
       "attachments": [
         {
           "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1424295128557948978/image.png?ex=68eca834&is=68eb56b4&hm=e56fb860c808ffd6403b851302fed1488e50089ac7fe96e5fa5a03ce24873934&",
-          "contentType": "image/png"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
-      "content": "@everyone \nволодя бургер все сломал",
-      "time": "2025-10-02T08:19:11.280Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1423222772775256084/image.png?ex=68ecb5ff&is=68eb647f&hm=c9f26fb6ba3842c78f3a7f65ee5446b3f6481cd271613d51d2d961900bca6982&",
           "contentType": "image/png"
         }
       ]
