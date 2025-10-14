@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-10-14T13:57:04.630Z",
+  "updated_at": "2025-10-14T14:24:09.680Z",
   "totalMembers": 27,
-  "onlineCount": 14,
+  "onlineCount": 12,
   "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
+      "content": "с днем рождения\n<@1097807574646132767> <@391467489818836992> \n@everyone",
+      "time": "2025-10-14T14:09:45.325Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
@@ -35,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
       "content": "@everyone мы взорвали все на сервере, сервер будет работать свои последние полтора суток, можете успеть попрощаться со всем",
       "time": "2025-10-07T11:48:03.167Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/96f29196ef4c3f1decee15b6602004c0.webp",
-      "content": "@everyone ПОСЛЕДНИЙ ЗАПУСК ПИКМИ СБОРКИ",
-      "time": "2025-10-07T11:15:16.787Z",
       "attachments": []
     }
   ]
