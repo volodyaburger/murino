@@ -1,9 +1,21 @@
 {
-  "updated_at": "2025-10-21T12:43:35.444Z",
+  "updated_at": "2025-10-21T13:24:37.426Z",
   "totalMembers": 28,
   "onlineCount": 13,
   "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
+      "content": "код10 умер\n@everyone",
+      "time": "2025-10-21T13:00:12.910Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1430178864956571680/IMG_2588.jpg?ex=68f8d55c&is=68f783dc&hm=4a42046231afd350ad5483c7fdc97b3354705c1dca407d6670843405d59d987d&",
+          "contentType": "image/jpeg"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
@@ -35,13 +47,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
       "content": "@everyone \nhttps://youtu.be/_r5TPufRgAo",
       "time": "2025-10-12T09:40:29.323Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
-      "content": "@everyone мы взорвали все на сервере, сервер будет работать свои последние полтора суток, можете успеть попрощаться со всем",
-      "time": "2025-10-07T11:48:03.167Z",
       "attachments": []
     }
   ]
