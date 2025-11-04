@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-11-04T16:26:24.394Z",
+  "updated_at": "2025-11-04T16:49:09.781Z",
   "totalMembers": 28,
-  "onlineCount": 11,
+  "onlineCount": 10,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
+      "content": "",
+      "time": "2025-11-04T16:36:33.148Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
@@ -36,18 +43,6 @@
       "content": "с днем рождения\n<@1097807574646132767> <@391467489818836992> \n@everyone",
       "time": "2025-10-14T14:09:45.325Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
-      "content": "",
-      "time": "2025-10-14T13:50:17.200Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1427654750811324416/image.png?ex=690b5619&is=690a0499&hm=e34fd5a0244343a70dbd2db5606b2cffcd413c61e1f7ce6e919ebe9e6386df65&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
