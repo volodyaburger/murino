@@ -1,9 +1,16 @@
 {
-  "updated_at": "2025-11-05T05:55:34.807Z",
+  "updated_at": "2025-11-05T06:30:39.274Z",
   "totalMembers": 28,
-  "onlineCount": 9,
-  "voiceCount": 0,
+  "onlineCount": 13,
+  "voiceCount": 2,
   "messages": [
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/8c7dd7e51cf017b66acc987dcc857af6.webp",
+      "content": "https://tenor.com/view/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80-gif-1272046242053253995",
+      "time": "2025-11-05T06:29:05.122Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
@@ -36,13 +43,6 @@
           "contentType": "image/jpeg"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/9abc88bc483e1471ae7fb5ab76b7d6e6.webp",
-      "content": "с днем рождения\n<@1097807574646132767> <@391467489818836992> \n@everyone",
-      "time": "2025-10-14T14:09:45.325Z",
-      "attachments": []
     }
   ]
 }
