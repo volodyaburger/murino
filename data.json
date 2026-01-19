@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-19T11:22:57.551Z",
+  "updated_at": "2026-01-19T11:43:49.196Z",
   "totalMembers": 20,
-  "onlineCount": 10,
-  "voiceCount": 3,
+  "onlineCount": 11,
+  "voiceCount": 2,
   "messages": [
     {
       "author": "bazzirovaniy_minion",
@@ -11,7 +11,7 @@
       "time": "2026-01-17T11:25:59.250Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1462045284019212319/1607_ad.png?ex=696ebd87&is=696d6c07&hm=de35cd2437d77b23c81c00f966dfee5f5d2f6ccf77ae34f5fb10c49929ecb8d7&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1462045284019212319/1607_ad.png?ex=696f6647&is=696e14c7&hm=1adc9ff386e223eefdb00cb920cbcf63c22d4e20e8d72c941cf78dbff630b5a8&",
           "contentType": "image/png"
         }
       ]
