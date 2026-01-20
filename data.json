@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-01-20T16:49:45.388Z",
+  "updated_at": "2026-01-20T17:17:55.242Z",
   "totalMembers": 20,
-  "onlineCount": 8,
+  "onlineCount": 9,
   "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "человек создавший данный скриншот уже мертв",
+      "time": "2026-01-20T17:16:17.272Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "@everyone \nединственная картинка способная подтвердить существование bibifr\nbibifr живое существо",
+      "time": "2026-01-20T17:16:06.958Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1463220560119992455/bibifr.jpg?ex=697109d6&is=696fb856&hm=4216a5bef1527de94ace9aa92cd8b2c0ed367399ebdada3592220388ffa7a291&",
+          "contentType": "image/jpeg"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
@@ -24,25 +43,6 @@
       "content": "vinigred",
       "time": "2026-01-20T16:47:37.163Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
-      "content": "второе\nявление\nbibifr\nhttps://www.youtube.com/watch?v=StjW_iuFln4\nhttps://www.youtube.com/watch?v=StjW_iuFln4\nhttps://www.youtube.com/watch?v=StjW_iuFln4\nbibifr\nявление бибифр\n\nbibifr = christ",
-      "time": "2026-01-20T16:46:10.953Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/8c7dd7e51cf017b66acc987dcc857af6.webp",
-      "content": "psycho в psychушке zxc 1000-7",
-      "time": "2026-01-17T11:25:59.250Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1462045284019212319/1607_ad.png?ex=6970b7c7&is=696f6647&hm=c2b226b7397c3e7b52ddc1daec1e51859edde32d5df83b8b51abaafa3616f966&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
