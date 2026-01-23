@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-01-23T17:00:38.744Z",
+  "updated_at": "2026-01-23T17:36:11.412Z",
   "totalMembers": 20,
-  "onlineCount": 8,
+  "onlineCount": 7,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "",
+      "time": "2026-01-23T17:26:31.012Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1464310341235118338/image.png?ex=697500c6&is=6973af46&hm=d1cd83d4ac2f29a5506ec9b837e0ca3f4ed548d5017c4380ad26861e0df25a5f&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
@@ -31,18 +43,6 @@
       "content": "https://ozon.ru/t/ZJFEugp",
       "time": "2026-01-22T14:16:13.053Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
-      "content": "",
-      "time": "2026-01-22T14:16:10.771Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1463900048202006662/image.png?ex=6974d429&is=697382a9&hm=5de8b0169722ac497cc74262aca98e565b35131e64ff2b38c177814800984be3&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
