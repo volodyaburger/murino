@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-01-23T09:56:18.111Z",
+  "updated_at": "2026-01-23T10:28:40.171Z",
   "totalMembers": 20,
   "onlineCount": 12,
   "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "@everyone В ВОЙС ТУТ СТРИМ ОТ ЛИЦА ВЛАДИКАr",
+      "time": "2026-01-23T10:24:32.120Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
@@ -36,13 +43,6 @@
           "contentType": "image/png"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
-      "content": "автор скриншота не знал об этом и погиб...",
-      "time": "2026-01-20T17:19:48.725Z",
-      "attachments": []
     }
   ]
 }
