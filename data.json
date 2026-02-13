@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-02-13T06:42:08.214Z",
+  "updated_at": "2026-02-13T07:39:47.161Z",
   "totalMembers": 21,
-  "onlineCount": 8,
+  "onlineCount": 11,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
+      "content": "никогда не меняйте почту от дискорда...",
+      "time": "2026-02-13T07:20:25.727Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
@@ -30,13 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
       "content": "висит штука",
       "time": "2026-02-13T06:25:29.587Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
-      "content": "ребят теперь у меня в профиле",
-      "time": "2026-02-13T06:25:27.056Z",
       "attachments": []
     }
   ]
