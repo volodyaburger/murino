@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-02T02:49:10.890Z",
+  "updated_at": "2026-03-02T04:29:04.188Z",
   "totalMembers": 21,
-  "onlineCount": 5,
+  "onlineCount": 6,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
+      "content": "@everyone",
+      "time": "2026-03-02T03:53:42.554Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
+      "content": "подписчики привет сегодня крутим с6 варку\n12:00-14:00 по мск примерно",
+      "time": "2026-03-02T03:53:38.610Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
@@ -23,20 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
       "content": "что аккаунт украден",
       "time": "2026-02-13T06:25:34.702Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
-      "content": "как у димы десендуса",
-      "time": "2026-02-13T06:25:32.300Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
-      "content": "висит штука",
-      "time": "2026-02-13T06:25:29.587Z",
       "attachments": []
     }
   ]
