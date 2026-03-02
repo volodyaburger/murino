@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-03-02T08:04:54.635Z",
+  "updated_at": "2026-03-02T08:59:43.325Z",
   "totalMembers": 21,
-  "onlineCount": 7,
+  "onlineCount": 9,
   "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
+      "content": "@everyone привет через 5 10 20 минут начнем",
+      "time": "2026-03-02T08:56:31.517Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
@@ -30,13 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
       "content": "Я ПРОСТО ПОЧТУ ПОМЕНЯЯЯЛ БЛЯЯТЬ",
       "time": "2026-02-13T06:25:41.437Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/d5b0b1c40f73b891cd9165780cb24246.webp",
-      "content": "что аккаунт украден",
-      "time": "2026-02-13T06:25:34.702Z",
       "attachments": []
     }
   ]
