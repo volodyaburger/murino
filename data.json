@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-04-07T15:48:46.466Z",
+  "updated_at": "2026-04-07T16:41:52.292Z",
   "totalMembers": 21,
-  "onlineCount": 12,
+  "onlineCount": 9,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "Я так и знал",
+      "time": "2026-04-07T16:33:07.630Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "",
+      "time": "2026-04-07T16:32:48.824Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1491113528617209896/IMG_5905.jpg?ex=69d68330&is=69d531b0&hm=af668da3f03845531b2da511d6510f21c311043f4ea0487ae9bcd043e11d4a22&",
+          "contentType": "image/jpeg"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
@@ -23,20 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e9d6f8010459610c7a4d973ce9e47b18.webp",
       "content": "я клинически диагностированный долбоеб",
       "time": "2026-03-26T06:09:31.356Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e9d6f8010459610c7a4d973ce9e47b18.webp",
-      "content": "друн друнович друнов",
-      "time": "2026-03-26T06:06:40.530Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e9d6f8010459610c7a4d973ce9e47b18.webp",
-      "content": "я вам щас Ca3(PO4)2 сломаю всем",
-      "time": "2026-03-19T09:37:43.048Z",
       "attachments": []
     }
   ]
