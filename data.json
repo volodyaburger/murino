@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-04-07T06:51:03.537Z",
+  "updated_at": "2026-04-07T08:12:20.423Z",
   "totalMembers": 21,
-  "onlineCount": 7,
+  "onlineCount": 8,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "Общий сбор",
+      "time": "2026-04-07T07:40:16.457Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
+      "content": "@everyone Инцелы поставьте ❤️",
+      "time": "2026-04-07T07:36:55.680Z",
+      "attachments": []
+    },
     {
       "author": "bazzirovaniy_minion",
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e9d6f8010459610c7a4d973ce9e47b18.webp",
@@ -23,20 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e9d6f8010459610c7a4d973ce9e47b18.webp",
       "content": "я вам щас Ca3(PO4)2 сломаю всем",
       "time": "2026-03-19T09:37:43.048Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e9d6f8010459610c7a4d973ce9e47b18.webp",
-      "content": "э уебки",
-      "time": "2026-03-19T09:37:32.382Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/66ab341183e969bd1e34f926cb9574f3.webp",
-      "content": "захадити",
-      "time": "2026-03-02T09:07:34.961Z",
       "attachments": []
     }
   ]
