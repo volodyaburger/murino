@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-04-17T07:46:40.825Z",
+  "updated_at": "2026-04-17T09:04:35.070Z",
   "totalMembers": 21,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/2093deca692b83c43cca262e0e239525.webp",
+      "content": "",
+      "time": "2026-04-17T07:49:51.973Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1494605803154444408/image.png?ex=69e3379f&is=69e1e61f&hm=b6c6d286a57eeb55a3b6444422a5925ab22350849830ca2ce811e0c5a632eb9f&",
+          "contentType": "image/png"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/2093deca692b83c43cca262e0e239525.webp",
+      "content": "",
+      "time": "2026-04-17T07:49:31.213Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1494605716097335366/image.png?ex=69e3378b&is=69e1e60b&hm=002b5b5eef5cc30b8208b22c9e04a1738149a0da21c6f28d6d22de2473f79fc1&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/2093deca692b83c43cca262e0e239525.webp",
@@ -28,20 +52,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/2093deca692b83c43cca262e0e239525.webp",
       "content": "Общий сбор",
       "time": "2026-04-07T07:40:16.457Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/2093deca692b83c43cca262e0e239525.webp",
-      "content": "@everyone Инцелы поставьте ❤️",
-      "time": "2026-04-07T07:36:55.680Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e9d6f8010459610c7a4d973ce9e47b18.webp",
-      "content": "я клинически диагностированный долбоеб",
-      "time": "2026-03-26T06:09:31.356Z",
       "attachments": []
     }
   ]
