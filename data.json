@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-05-29T08:03:56.170Z",
+  "updated_at": "2026-05-29T11:38:23.624Z",
   "totalMembers": 21,
-  "onlineCount": 10,
-  "voiceCount": 3,
+  "onlineCount": 12,
+  "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "cheesepizza.peniscraft.pro",
+      "time": "2026-05-29T09:09:40.866Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -35,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
       "content": "я создал новую роль на сервере и выдал её двоим людям",
       "time": "2026-05-29T05:50:46.083Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
-      "content": "у меня снова не работает войс",
-      "time": "2026-05-15T07:20:26.350Z",
       "attachments": []
     }
   ]
