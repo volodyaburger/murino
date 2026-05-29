@@ -1,53 +1,48 @@
 {
-  "updated_at": "2026-05-29T03:59:26.545Z",
+  "updated_at": "2026-05-29T08:03:56.170Z",
   "totalMembers": 21,
-  "onlineCount": 6,
-  "voiceCount": 0,
+  "onlineCount": 10,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "",
+      "time": "2026-05-29T07:20:31.051Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1509818707663257731/image.png?ex=6a1a8fbe&is=6a193e3e&hm=7ebb45c6d4501f0ab1fdf0c266f3f24e34a452c9f67f7457b2f1c35428097f2e&",
+          "contentType": "image/png"
+        }
+      ]
+    },
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
+      "content": "порадуйтесь за меня",
+      "time": "2026-05-29T05:50:59.244Z",
+      "attachments": []
+    },
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
+      "content": "и себе",
+      "time": "2026-05-29T05:50:49.181Z",
+      "attachments": []
+    },
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
+      "content": "я создал новую роль на сервере и выдал её двоим людям",
+      "time": "2026-05-29T05:50:46.083Z",
+      "attachments": []
+    },
     {
       "author": "bazzirovaniy_minion",
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
       "content": "у меня снова не работает войс",
       "time": "2026-05-15T07:20:26.350Z",
       "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
-      "content": "перезайду",
-      "time": "2026-05-15T07:20:22.345Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
-      "content": "щас я",
-      "time": "2026-05-15T07:20:20.848Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "",
-      "time": "2026-04-17T07:49:51.973Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1494605803154444408/image.png?ex=6a19eddf&is=6a189c5f&hm=65eff258747f1515fee622bcfe9e6226502c74d6af0a40aac48d446e6037763b&",
-          "contentType": "image/png"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "",
-      "time": "2026-04-17T07:49:31.213Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1494605716097335366/image.png?ex=6a19edcb&is=6a189c4b&hm=08bdbfa32d2760c0317197bbdb27810c5c600784128d1da7f75535592aec0363&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
