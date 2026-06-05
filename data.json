@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-06-05T13:28:10.078Z",
+  "updated_at": "2026-06-05T16:13:25.078Z",
   "totalMembers": 21,
   "onlineCount": 10,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
+      "content": "Привет! Я играю в Брик Ригс!",
+      "time": "2026-06-05T15:55:05.882Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -35,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
       "content": "и себе",
       "time": "2026-05-29T05:50:49.181Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/2bfeaa58714498b0cbf7f551b5f1cbed.webp",
-      "content": "я создал новую роль на сервере и выдал её двоим людям",
-      "time": "2026-05-29T05:50:46.083Z",
       "attachments": []
     }
   ]
