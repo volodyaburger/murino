@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-06-10T08:35:24.866Z",
-  "totalMembers": 21,
-  "onlineCount": 9,
-  "voiceCount": 3,
+  "updated_at": "2026-06-10T11:55:43.519Z",
+  "totalMembers": 20,
+  "onlineCount": 7,
+  "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "",
+      "time": "2026-06-10T08:50:47.153Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1514190078459510874/image.png?ex=6a2a76e6&is=6a292566&hm=ef828581ce82bc8d5d55feeb5f23956ee760cc7a8d1e1249b7772ebf7931a3d9&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -41,18 +53,6 @@
       "content": "ЧТООООООООООО",
       "time": "2026-06-07T15:36:43.500Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "3.0 июнь 2026",
-      "time": "2026-06-07T15:36:27.887Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1513205007711735921/image.png?ex=6a2a2d3b&is=6a28dbbb&hm=c0bc9bafa4cf0e5d43e82636d3b9a1cc40ddd351e285ea6ed711d08b4bf2ed98&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
