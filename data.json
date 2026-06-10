@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-06-10T04:39:27.675Z",
+  "updated_at": "2026-06-10T08:35:24.866Z",
   "totalMembers": 21,
-  "onlineCount": 10,
-  "voiceCount": 0,
+  "onlineCount": 9,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "тизер\nstay tuned",
+      "time": "2026-06-10T06:20:58.688Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1514152378650067025/image.png?ex=6a2a53ca&is=6a29024a&hm=f1266aa69c29f315f12ca5088b8817a31abead12f0c08eb58d8e23d63ab6ee26&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -41,13 +53,6 @@
           "contentType": "image/png"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "Киря почему руки грязные",
-      "time": "2026-06-07T15:28:32.716Z",
-      "attachments": []
     }
   ]
 }
