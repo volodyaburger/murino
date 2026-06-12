@@ -1,9 +1,35 @@
 {
-  "updated_at": "2026-06-12T13:52:47.624Z",
+  "updated_at": "2026-06-12T16:43:36.576Z",
   "totalMembers": 20,
-  "onlineCount": 9,
-  "voiceCount": 3,
+  "onlineCount": 10,
+  "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "не пиши это шифр",
+      "time": "2026-06-12T16:19:21.588Z",
+      "attachments": []
+    },
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
+      "content": "",
+      "time": "2026-06-12T16:19:05.695Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1515027675121713353/images.png?ex=6a2d82f9&is=6a2c3179&hm=6dfa45ef93c1f3963569d5e99a9279c93706a7c086cd6b754e80edb7fe7cee8f&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "M4X0N PR1M3\njune 2026",
+      "time": "2026-06-12T16:18:16.652Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -27,32 +53,6 @@
           "contentType": "image/webp"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "ребят я учел ошибки прошлого и в этот раз кнопка мультиплеера будет выкидывать вас из игры",
-      "time": "2026-06-07T15:39:03.109Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
-      "content": "",
-      "time": "2026-06-07T15:36:57.464Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1513205131997614281/9k.png?ex=6a2cd059&is=6a2b7ed9&hm=b5773672cdc9b529efea506e7baa3071c1fafdbfd5e63bc4928dae432e052e7d&",
-          "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
-      "content": "ЧТООООООООООО",
-      "time": "2026-06-07T15:36:43.500Z",
-      "attachments": []
     }
   ]
 }
