@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-06-18T10:53:02.480Z",
+  "updated_at": "2026-06-18T14:09:21.278Z",
   "totalMembers": 20,
-  "onlineCount": 8,
+  "onlineCount": 10,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "барис)",
+      "time": "2026-06-18T11:27:41.809Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "?)",
+      "time": "2026-06-18T11:19:19.858Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1517126564184195173/siski.jpg?ex=6a3525b7&is=6a33d437&hm=95434a81c31b2508bdb1293585979d584037dabc24080204ee34665758335fbd&",
+          "contentType": "image/jpeg"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -24,25 +43,6 @@
       "content": "ПОЗДРАВЛЯЮ ВСЕХ ЛГБТ-ПЕРСОН ЭТОГО СЕРВЕРА С МЕСЯЦОМ ГОРДОСТИ!!\nТАК ЖЕ ПОЗДРАВЛЯЮ <@885138792133050439> и <@984672509238583377> С КАМИНГ АУТОМ КАК НЕБИНАРНЫЕ!!",
       "time": "2026-06-15T10:33:55.801Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "не пиши это шифр",
-      "time": "2026-06-12T16:19:21.588Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
-      "content": "",
-      "time": "2026-06-12T16:19:05.695Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1515027675121713353/images.png?ex=6a34c339&is=6a3371b9&hm=1777b075e18f1c5b31b1a23d2769e192fdd020b1c2c0df0f2c8fec15c2f3a0e8&",
-          "contentType": "image/webp"
-        }
-      ]
     }
   ]
 }
