@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-06-23T14:00:42.138Z",
+  "updated_at": "2026-06-23T16:38:09.782Z",
   "totalMembers": 19,
-  "onlineCount": 12,
+  "onlineCount": 11,
   "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "",
+      "time": "2026-06-23T15:43:44.158Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1519005043158679643/vladick.png?ex=6a3bfb30&is=6a3aa9b0&hm=93f00ea70efcf0ba04b8d96961f278d4d9dd908f8f801bde9da1c7cdfc1cbeef&",
+          "contentType": "image/png"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "https://www.youtube.com/watch?v=dBARXrpvwWQ",
+      "time": "2026-06-23T14:34:17.194Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -28,25 +47,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
       "content": "барис)",
       "time": "2026-06-18T11:27:41.809Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "?)",
-      "time": "2026-06-18T11:19:19.858Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1517126564184195173/siski.jpg?ex=6a3bbd37&is=6a3a6bb7&hm=f676560eb62f8af624c74a2e47e92aa0323bc94a1f26dd13bf857def25c4c5bf&",
-          "contentType": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "Вы поняли",
-      "time": "2026-06-15T10:34:02.887Z",
       "attachments": []
     }
   ]
