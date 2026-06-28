@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-06-28T22:30:08.554Z",
+  "updated_at": "2026-06-28T23:40:59.989Z",
   "totalMembers": 19,
   "onlineCount": 5,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "она довольно таки масштабная и тд)",
+      "time": "2026-06-28T23:09:11.026Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "ребят разработки пикми сборки 3 слегка задержутся и она начнется в НАЧАЛЕ июля !\nне в 2* числах июня извините я не успел в дедлайн но я работаю и тд)",
+      "time": "2026-06-28T23:08:56.449Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -36,30 +50,6 @@
       "attachments": [
         {
           "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1519687480947904603/image.png?ex=6a426b41&is=6a4119c1&hm=9b80e99a39430643347915dce4ca024b066f70d5ad23bf0fd4abdd785d39991d&",
-          "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
-      "content": "",
-      "time": "2026-06-25T12:55:29.356Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1519687478183854150/image.png?ex=6a426b41&is=6a4119c1&hm=b6ec0f960f6287e4269e5f5b336abd5dd99679c5bfcb3a876d544c17ad24e9b8&",
-          "contentType": "image/png"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "",
-      "time": "2026-06-25T12:55:03.203Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1519687368649609256/image.png?ex=6a426b27&is=6a4119a7&hm=e5f44cc0fc1b2ac59db1c66d7543da16c25ef41ed6daef92a3932c85d99e9942&",
           "contentType": "image/webp"
         }
       ]
