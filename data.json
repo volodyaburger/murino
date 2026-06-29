@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-06-29T06:53:26.676Z",
+  "updated_at": "2026-06-29T11:58:33.393Z",
   "totalMembers": 19,
-  "onlineCount": 7,
-  "voiceCount": 2,
+  "onlineCount": 9,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "",
+      "time": "2026-06-29T07:37:00.904Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521056882947526757/image.png?ex=6a43721c&is=6a42209c&hm=96898f430028f096a75ec5cbe0503553ad4a82881cfbc99bed7e107759b67295&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "",
+      "time": "2026-06-29T07:08:53.798Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521049806901084170/340.png?ex=6a436b85&is=6a421a05&hm=4809b83ce32495ca02ebd7a420fe23aa7b91c662d892a444e8f62068b83631b5&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -29,30 +53,6 @@
       "content": "ребят разработки пикми сборки 3 слегка задержутся и она начнется в НАЧАЛЕ июля !\nне в 2* числах июня извините я не успел в дедлайн но я работаю и тд)",
       "time": "2026-06-28T23:08:56.449Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "ц",
-      "time": "2026-06-28T18:54:48.243Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1520865066482925668/image.png?ex=6a42bf78&is=6a416df8&hm=05a33d15009478217175d3e1152c04ff298e91599c32f8e01314917ecbc5b4e5&",
-          "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "",
-      "time": "2026-06-25T12:57:02.496Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1519687869029941300/image.png?ex=6a43145e&is=6a41c2de&hm=51713bdcead5d8b7317c343f6fb641468b9edd31fbd6bbcc6c14d39744a7d5a4&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
