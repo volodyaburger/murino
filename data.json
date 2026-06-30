@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-06-30T06:12:00.021Z",
+  "updated_at": "2026-06-30T10:03:12.241Z",
   "totalMembers": 19,
-  "onlineCount": 8,
-  "voiceCount": 2,
+  "onlineCount": 9,
+  "voiceCount": 4,
   "messages": [
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
+      "content": "",
+      "time": "2026-06-30T07:11:39.209Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521412888558833755/image.png?ex=6a44bdab&is=6a436c2b&hm=b6a73fdeb0061ce0ad7f0e2b6b6df8bb4f3422997b424f73480856f1faaa45c5&",
+          "contentType": "image/png"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "",
+      "time": "2026-06-30T06:34:41.515Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521403586930540584/image.png?ex=6a44b501&is=6a436381&hm=741dea25ddd7e884aff1b85ef387a3d9d1749e84043f71bd34cd2f56b4fe4d1a&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
@@ -11,7 +35,7 @@
       "time": "2026-06-29T07:37:00.904Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521056882947526757/image.png?ex=6a441adc&is=6a42c95c&hm=4ec41ce699bb5b978f0c5736d61fc420f4984681ea60f990d666fc5f73cfc06c&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521056882947526757/image.png?ex=6a44c39c&is=6a43721c&hm=a68772d6919acc8c1301d585c0cbf187ebaf8a99e78a53760d208582f8a7e716&",
           "contentType": "image/webp"
         }
       ]
@@ -23,7 +47,7 @@
       "time": "2026-06-29T07:08:53.798Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521049806901084170/340.png?ex=6a441445&is=6a42c2c5&hm=63261a47a7287d8e93a20ac6775637561e09233b4e18acf2899fd71ed08f5486&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521049806901084170/340.png?ex=6a44bd05&is=6a436b85&hm=fba1ba353dde8e883ac940d68b093f75a951f99b42f44b2f863a7ed79b26064b&",
           "contentType": "image/webp"
         }
       ]
@@ -39,20 +63,6 @@
           "contentType": "image/jpeg"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "она довольно таки масштабная и тд)",
-      "time": "2026-06-28T23:09:11.026Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "ребят разработки пикми сборки 3 слегка задержутся и она начнется в НАЧАЛЕ июля !\nне в 2* числах июня извините я не успел в дедлайн но я работаю и тд)",
-      "time": "2026-06-28T23:08:56.449Z",
-      "attachments": []
     }
   ]
 }
