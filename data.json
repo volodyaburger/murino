@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-01T01:58:09.854Z",
+  "updated_at": "2026-07-01T06:40:05.868Z",
   "totalMembers": 19,
-  "onlineCount": 9,
-  "voiceCount": 3,
+  "onlineCount": 7,
+  "voiceCount": 4,
   "messages": [
     {
       "author": "bazzirovaniy_minion",
@@ -23,7 +23,7 @@
       "time": "2026-06-30T06:34:41.515Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521403586930540584/image.png?ex=6a455dc1&is=6a440c41&hm=6cfa5c208cbe5c576f4690145526c2baac3a813b95308e190d39c215af303c9f&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521403586930540584/image.png?ex=6a460681&is=6a44b501&hm=17a562c1ef61b82ab3e3078dabfc5daf79d61c6f9900eb821264dcc9fe274425&",
           "contentType": "image/png"
         }
       ]
@@ -59,7 +59,7 @@
       "time": "2026-06-29T05:05:42.880Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521018806712139887/desendus.jpg?ex=6a4548e6&is=6a43f766&hm=9d1ade99b89aaeafdaa561d8c8f101ca9ba8ba5bce62f00b3cdcc72885114e1f&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521018806712139887/desendus.jpg?ex=6a45f1a6&is=6a44a026&hm=782421348b438374da5c31746803b83576f76e2c7057e6e9dfb4aa66fc320345&",
           "contentType": "image/jpeg"
         }
       ]
