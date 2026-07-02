@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-07-02T05:33:06.732Z",
+  "updated_at": "2026-07-02T08:31:12.371Z",
   "totalMembers": 19,
   "onlineCount": 10,
-  "voiceCount": 2,
+  "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
+      "content": "",
+      "time": "2026-07-02T07:40:40.447Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1522144967227871393/image.png?ex=6a476778&is=6a4615f8&hm=836ba962d7035c0d64058e8e178a57c5337538a5d82444e1604e4344cadf8f08&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "bazzirovaniy_minion",
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
@@ -11,7 +23,7 @@
       "time": "2026-06-30T07:11:39.209Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521412888558833755/image.png?ex=6a46b7eb&is=6a45666b&hm=8109cffda51aeb030cb23b301da0ffe0878af621c1bf03ccbe8a570b841c2972&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521412888558833755/image.png?ex=6a4760ab&is=6a460f2b&hm=3ceb94e6b284921396530e02ac66d86946e9a6e1e7abae34684cac7ae1f2c587&",
           "contentType": "image/png"
         }
       ]
@@ -23,7 +35,7 @@
       "time": "2026-06-30T06:34:41.515Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521403586930540584/image.png?ex=6a46af41&is=6a455dc1&hm=2e2a0711318e771ec09c0a6cee2ea5bca1775110ee222d2f37ba1c001606b411&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521403586930540584/image.png?ex=6a475801&is=6a460681&hm=64d6cb11d41b44a175a9d59fe52a2878c68f57aadbcd1936cca204da2bb89553&",
           "contentType": "image/png"
         }
       ]
@@ -35,7 +47,7 @@
       "time": "2026-06-29T07:37:00.904Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521056882947526757/image.png?ex=6a46bddc&is=6a456c5c&hm=36e462945362979cfe8a2e09051b98ff139736320574dc0449847d761bc446ec&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521056882947526757/image.png?ex=6a47669c&is=6a46151c&hm=33441e7ee15458de5be25a9eb92a4377c1c3d9ad36f8ef28b443930aec3646c5&",
           "contentType": "image/webp"
         }
       ]
@@ -47,20 +59,8 @@
       "time": "2026-06-29T07:08:53.798Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521049806901084170/340.png?ex=6a46b745&is=6a4565c5&hm=6f0d5fad696188199416f492fa91825e56e167851be420717dd3bf83d276dc05&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521049806901084170/340.png?ex=6a476005&is=6a460e85&hm=a935eeaca37ef376a933023f0ffc7027dbfb995c86700a496ce950e27f4d5d8c&",
           "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/bf90ffea8670d654cf9e26ed0a93b90d.webp",
-      "content": "29.06.2026 БЫЛИ НАЙДЕНЫ НАСКАЛЬНЫЕ НАДПИСИ ОСТАВЛЕННЫЕ НЕИЗВЕСТНЫМ РОВНО В ЭТОТ ДЕНЬ 538 ЛЕТ НАЗАД!\n29.06.1488 ...",
-      "time": "2026-06-29T05:05:42.880Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521018806712139887/desendus.jpg?ex=6a474326&is=6a45f1a6&hm=afb8a022409e595f30e9e79653352db47920e577a46f1b98de907c5b6973415c&",
-          "contentType": "image/jpeg"
         }
       ]
     }
