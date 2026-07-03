@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-07-03T01:21:04.295Z",
+  "updated_at": "2026-07-03T05:25:22.777Z",
   "totalMembers": 19,
-  "onlineCount": 5,
-  "voiceCount": 0,
+  "onlineCount": 9,
+  "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
+      "content": "",
+      "time": "2026-07-03T02:51:15.759Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1522434522765987850/image.png?ex=6a487523&is=6a4723a3&hm=b6339713f5b55cdda5b6635c3b808e905a27661b751418d46d268ffe5fe19b67&",
+          "contentType": "image/png"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
+      "content": "Его можно добыть деревянной киркой",
+      "time": "2026-07-03T02:20:26.212Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
@@ -37,30 +56,6 @@
         {
           "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521403586930540584/image.png?ex=6a4800c1&is=6a46af41&hm=d7d0c65838c56f47678b31a2ebd44013c44304e23644e3707db8ef8f1141d1a1&",
           "contentType": "image/png"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
-      "content": "",
-      "time": "2026-06-29T07:37:00.904Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521056882947526757/image.png?ex=6a480f5c&is=6a46bddc&hm=4e3a2f090ee6ed9a131e2df1d8ebebf241d7f3d53d40d0817bd2bbb20156c703&",
-          "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
-      "content": "",
-      "time": "2026-06-29T07:08:53.798Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521049806901084170/340.png?ex=6a4808c5&is=6a46b745&hm=0ad82198bb5af0b4a1ab6ee9be925ffdbaa9c2064f574919a690b7266b0aa99e&",
-          "contentType": "image/webp"
         }
       ]
     }
