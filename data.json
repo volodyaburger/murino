@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-07-05T14:45:04.296Z",
+  "updated_at": "2026-07-05T15:53:46.134Z",
   "totalMembers": 19,
   "onlineCount": 8,
   "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
+      "content": "",
+      "time": "2026-07-05T15:25:38.103Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1523349142556901516/image.png?ex=6a4bc8f2&is=6a4a7772&hm=92e47fc44f6efc8b89ba6f3cd943f13bd47aea8d26f417fd27904b253430c3f4&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
+      "content": "",
+      "time": "2026-07-05T15:24:19.640Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1523348813429997568/image.png?ex=6a4bc8a3&is=6a4a7723&hm=61ae601375eb069badb2e7a53bdc245682eba1da8f9bc89457b0d7bbefa5556b&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
@@ -23,7 +47,7 @@
       "time": "2026-07-03T02:51:15.759Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1522434522765987850/image.png?ex=6a4b1823&is=6a49c6a3&hm=12dca0db662d99f6282a188349546237b56e3f4a45a911a7b75621c1fa9d69dd&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1522434522765987850/image.png?ex=6a4bc0e3&is=6a4a6f63&hm=8cca867f344811bd9a75aff8e2cd2562c151a1712509eb51cbc81a0253bf108d&",
           "contentType": "image/png"
         }
       ]
@@ -34,30 +58,6 @@
       "content": "Его можно добыть деревянной киркой",
       "time": "2026-07-03T02:20:26.212Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
-      "content": "",
-      "time": "2026-07-02T07:40:40.447Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1522144967227871393/image.png?ex=6a4b5bf8&is=6a4a0a78&hm=3e6caa895d36157742bdc9cb592820de47ddbca19225bd84aac66dd8fd18967d&",
-          "contentType": "image/png"
-        }
-      ]
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
-      "content": "",
-      "time": "2026-06-30T07:11:39.209Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1521412888558833755/image.png?ex=6a4b552b&is=6a4a03ab&hm=5d87287e8199b1f35e0d10c4a2b084204f923d8c90f3f8a62b74bdfeef303c15&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
