@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-07-07T08:55:04.423Z",
+  "updated_at": "2026-07-07T11:50:04.952Z",
   "totalMembers": 19,
-  "onlineCount": 9,
-  "voiceCount": 0,
+  "onlineCount": 11,
+  "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
+      "content": "",
+      "time": "2026-07-07T11:06:48.392Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1524008781837504663/image.png?ex=6a4e2f48&is=6a4cddc8&hm=77682f931d8cae3a6288b0688a550c88bc7b5c00e74c660a8afb9c229a2e46ae&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
@@ -35,7 +47,7 @@
       "time": "2026-07-05T09:11:26.526Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1523254973876666368/image.png?ex=6a4d6b7e&is=6a4c19fe&hm=82cf5809ca6431355438817d803743b4f4adfd4f11ef781d1a4b435785e3d350&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1523254973876666368/image.png?ex=6a4e143e&is=6a4cc2be&hm=44aa2319feec7dfa9a54919481065d8a803c0e399c9a8796fff9b173cf5f7fb6&",
           "contentType": "image/webp"
         }
       ]
@@ -51,13 +63,6 @@
           "contentType": "image/png"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/7e0e1043570e8cbb8677f8a4891dcd14.webp",
-      "content": "Его можно добыть деревянной киркой",
-      "time": "2026-07-03T02:20:26.212Z",
-      "attachments": []
     }
   ]
 }
