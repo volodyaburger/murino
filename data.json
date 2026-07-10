@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-07-10T15:57:36.447Z",
+  "updated_at": "2026-07-10T17:50:56.975Z",
   "totalMembers": 20,
-  "onlineCount": 11,
+  "onlineCount": 8,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "Я надеюсь что пикми 3 станет последней пикми сборкой и дальше будет говно/пиковару сборка",
+      "time": "2026-07-10T16:12:52.246Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -35,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
       "content": "27.7 часов",
       "time": "2026-07-10T14:55:23.272Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "а нет ошибка подсчетов",
-      "time": "2026-07-10T14:55:20.939Z",
       "attachments": []
     }
   ]
