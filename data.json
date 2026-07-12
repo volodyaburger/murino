@@ -1,9 +1,35 @@
 {
-  "updated_at": "2026-07-12T07:12:32.830Z",
+  "updated_at": "2026-07-12T09:18:54.806Z",
   "totalMembers": 20,
-  "onlineCount": 11,
-  "voiceCount": 3,
+  "onlineCount": 12,
+  "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "пикми сборка через 2 дня",
+      "time": "2026-07-12T08:11:21.242Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "трейд из села",
+      "time": "2026-07-12T07:15:37.803Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "",
+      "time": "2026-07-12T07:14:38.485Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1525762294544335028/image.png?ex=6a54905e&is=6a533ede&hm=ca322e92b04f07da3d3588d3e86631797db01b2e8c7306019b295da452f79dba&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -22,27 +48,6 @@
           "contentType": "image/webp"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "кто готов",
-      "time": "2026-07-10T14:55:25.929Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "надо копать",
-      "time": "2026-07-10T14:55:25.010Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "27.7 часов",
-      "time": "2026-07-10T14:55:23.272Z",
-      "attachments": []
     }
   ]
 }
