@@ -1,9 +1,35 @@
 {
-  "updated_at": "2026-07-12T15:28:30.415Z",
+  "updated_at": "2026-07-12T16:29:27.746Z",
   "totalMembers": 20,
   "onlineCount": 11,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "Пикми 3 не будет чат гпт не может сгенерировать картинку",
+      "time": "2026-07-12T15:33:21.651Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "Нам очень жаль, но ваш запрос, возможно, нарушает наши правила, касающиеся насилия. Если вы считаете, что произошла ошибка, попробуйте еще раз или отредактируйте свой запрос.",
+      "time": "2026-07-12T15:33:06.529Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "",
+      "time": "2026-07-12T15:33:03.893Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1525887727244148887/image.png?ex=6a55052f&is=6a53b3af&hm=872a9cfe27324a4c9a03cae54810257989af43195edf85731dc65d8978db148e&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -17,37 +43,6 @@
       "content": "трейд из села",
       "time": "2026-07-12T07:15:37.803Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "",
-      "time": "2026-07-12T07:14:38.485Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1525762294544335028/image.png?ex=6a54905e&is=6a533ede&hm=ca322e92b04f07da3d3588d3e86631797db01b2e8c7306019b295da452f79dba&",
-          "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "Я надеюсь что пикми 3 станет последней пикми сборкой и дальше будет говно/пиковару сборка",
-      "time": "2026-07-10T16:12:52.246Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "лишь я\nи моя деревянная кирка",
-      "time": "2026-07-10T15:29:50.689Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1525162141294919973/image.png?ex=6a545bae&is=6a530a2e&hm=225f0b28888508650216bd3a9ba95a90b00a3882057ed2e997edcf03334964da&",
-          "contentType": "image/webp"
-        }
-      ]
     }
   ]
 }
