@@ -1,9 +1,30 @@
 {
-  "updated_at": "2026-07-13T07:55:54.212Z",
-  "totalMembers": 20,
-  "onlineCount": 10,
-  "voiceCount": 0,
+  "updated_at": "2026-07-13T11:12:13.630Z",
+  "totalMembers": 21,
+  "onlineCount": 12,
+  "voiceCount": 4,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "@everyone",
+      "time": "2026-07-13T10:59:00.599Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "скину сборку чуть раньше и тд)",
+      "time": "2026-07-13T10:58:57.260Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "<t:1784016000:s> \nЗавтра в 11:00 МСК запуск пикми сборки",
+      "time": "2026-07-13T10:58:51.140Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -16,27 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
       "content": "пизда",
       "time": "2026-07-13T02:35:39.468Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "я сделала фейковый бенто",
-      "time": "2026-07-13T02:35:38.989Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "персонаж научился моргать пикми 3 не будет",
-      "time": "2026-07-13T01:49:47.707Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "Пикми 3 не будет чат гпт не может сгенерировать картинку",
-      "time": "2026-07-12T15:33:21.651Z",
       "attachments": []
     }
   ]
