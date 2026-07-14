@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-07-14T01:00:19.318Z",
+  "updated_at": "2026-07-14T04:14:01.692Z",
   "totalMembers": 21,
-  "onlineCount": 5,
-  "voiceCount": 0,
+  "onlineCount": 6,
+  "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "когда жестоко вырезала самую лучшую функцию пикми сборки 3",
+      "time": "2026-07-14T02:18:24.413Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -30,13 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
       "content": "вонючий сука тортик",
       "time": "2026-07-13T02:35:39.947Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "пизда",
-      "time": "2026-07-13T02:35:39.468Z",
       "attachments": []
     }
   ]
