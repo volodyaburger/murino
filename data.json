@@ -1,42 +1,47 @@
 {
-  "updated_at": "2026-07-14T06:28:26.684Z",
+  "updated_at": "2026-07-14T08:37:25.961Z",
   "totalMembers": 21,
-  "onlineCount": 10,
-  "voiceCount": 4,
+  "onlineCount": 11,
+  "voiceCount": 6,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "для тех у кого любой другой лаунчер сами ставьте версию и удалите в папке майнкрафта mods config и тд и закиньте с моего архива и всё",
+      "time": "2026-07-14T07:52:47.288Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "Для тех у кого Prism Launcher :\nПросто перекидывайте архив в Prism Launcher и нажимайте на ок, после чего запускайте игру и ВСО 👍",
+      "time": "2026-07-14T07:52:13.893Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1526496530578538609/image.png?ex=6a573c2d&is=6a55eaad&hm=226d0c1dc9dce29c5b341afaaabd726dcd6790b200ea9237db5de1c36fb276ff&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "ПИКМИ СБОРКА 3\nВерсия : 1.21.1 NeoForge\nВерсия NeoForge : 21.1.228 (ОБЯЗАТЕЛЬНО)\n[Ссылка для тех у кого Prism Launcher](https://drive.google.com/file/d/106E-jxPjPQyeVcngIR5snyWDjQr9U0Jn)\n[Ссылка для людей с любым другим лаунчером](https://drive.google.com/file/d/1XdD8S-0y7myTFKYr3isGXBwD81lWYuTV)",
+      "time": "2026-07-14T07:50:13.909Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "@everyone Я СЕЙЧАС ДРОПНУ ПИКМИ СБОРКУ ГОТОВЬТЕСЬ !)",
+      "time": "2026-07-14T07:27:13.869Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
       "content": "когда жестоко вырезала самую лучшую функцию пикми сборки 3",
       "time": "2026-07-14T02:18:24.413Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "@everyone",
-      "time": "2026-07-13T10:59:00.599Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "скину сборку чуть раньше и тд)",
-      "time": "2026-07-13T10:58:57.260Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "<t:1784016000:s> \nЗавтра в 11:00 МСК запуск пикми сборки",
-      "time": "2026-07-13T10:58:51.140Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "вонючий сука тортик",
-      "time": "2026-07-13T02:35:39.947Z",
       "attachments": []
     }
   ]
