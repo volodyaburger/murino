@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-07-15T10:19:42.200Z",
+  "updated_at": "2026-07-15T11:53:33.446Z",
   "totalMembers": 21,
-  "onlineCount": 9,
-  "voiceCount": 2,
+  "onlineCount": 12,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "",
+      "time": "2026-07-15T11:34:25.122Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1526914833629581354/image.png?ex=6a58c1c1&is=6a577041&hm=7c800a3fa85974a65bc0b3c881a527e2b13c335aaab5ae7daa491873f8374ad1&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -35,13 +47,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
       "content": "@everyone Я СЕЙЧАС ДРОПНУ ПИКМИ СБОРКУ ГОТОВЬТЕСЬ !)",
       "time": "2026-07-14T07:27:13.869Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "когда жестоко вырезала самую лучшую функцию пикми сборки 3",
-      "time": "2026-07-14T02:18:24.413Z",
       "attachments": []
     }
   ]
