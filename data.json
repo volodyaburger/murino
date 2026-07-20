@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-07-20T11:06:14.307Z",
+  "updated_at": "2026-07-20T13:15:10.590Z",
   "totalMembers": 21,
-  "onlineCount": 9,
+  "onlineCount": 8,
   "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "на один день",
+      "time": "2026-07-20T11:08:32.276Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "блин захотелось приколов\nзавтра выдам всем игрокам вечный рандомный эффект",
+      "time": "2026-07-20T11:08:31.554Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -27,30 +41,6 @@
         {
           "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1528695720679575624/volodyaburger_10070749.png?ex=6a5f3c55&is=6a5dead5&hm=25b9b30a414854e17c78a2b0a1fcd1915f880b481111f81b1fff8b4c2e744b47&",
           "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "привет поставили крутой мод на онлайн 3д карту можете заходить смотреть все в лайве\nhttp://152.89.199.80:25705/\n\nфиолетовые блоки уже фикшу ...",
-      "time": "2026-07-20T08:59:20.434Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1528687747005550692/image.png?ex=6a5f34e8&is=6a5de368&hm=4f37494bb5eecafc0ebe652467f2e808c8d8070fc72acf9a592a012c82b57a6b&",
-          "contentType": "image/png"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "",
-      "time": "2026-07-19T14:51:41.702Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1528414031340376347/image.png?ex=6a5edebd&is=6a5d8d3d&hm=41eeb237e46b677b01e04bd39f258b48c6c18114da45550da9d6d22628878053&",
-          "contentType": "image/png"
         }
       ]
     }
