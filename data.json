@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-07-21T04:27:31.683Z",
+  "updated_at": "2026-07-21T07:11:17.877Z",
   "totalMembers": 21,
-  "onlineCount": 9,
+  "onlineCount": 10,
   "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "Он мне наушники сломал !",
+      "time": "2026-07-21T06:26:37.934Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -35,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
       "content": "блин захотелось приколов\nзавтра выдам всем игрокам вечный рандомный эффект",
       "time": "2026-07-20T11:08:31.554Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "ok its up",
-      "time": "2026-07-20T10:55:29.554Z",
       "attachments": []
     }
   ]
