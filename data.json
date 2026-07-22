@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-07-22T12:24:14.287Z",
+  "updated_at": "2026-07-22T14:33:21.659Z",
   "totalMembers": 21,
-  "onlineCount": 10,
-  "voiceCount": 3,
+  "onlineCount": 11,
+  "voiceCount": 2,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "типо я на членах",
+      "time": "2026-07-22T13:17:57.520Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "ребят скоро откроется наша вторая точка на сервере - членские острова!)",
+      "time": "2026-07-22T13:17:54.418Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -25,24 +39,10 @@
       "time": "2026-07-20T13:38:35.359Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1528758015111598200/image.png?ex=6a617099&is=6a601f19&hm=941114c59eafeb429d9cb90aed3573e5fab70b9b0cefed752ca0495a12971f74&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1528758015111598200/image.png?ex=6a621959&is=6a60c7d9&hm=5c775183cf739e05fad152f6c6308980210e03c48ad00a36856aa7478c2cea50&",
           "contentType": "image/png"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "на один день",
-      "time": "2026-07-20T11:08:32.276Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "блин захотелось приколов\nзавтра выдам всем игрокам вечный рандомный эффект",
-      "time": "2026-07-20T11:08:31.554Z",
-      "attachments": []
     }
   ]
 }
