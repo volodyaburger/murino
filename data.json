@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-07-25T11:38:05.532Z",
+  "updated_at": "2026-07-25T12:43:25.302Z",
   "totalMembers": 21,
   "onlineCount": 13,
-  "voiceCount": 2,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "щас проверю как он там поживает и отключу",
+      "time": "2026-07-25T11:40:50.253Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "я финальная дива забыл отключить сервер",
+      "time": "2026-07-25T11:40:45.262Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -23,20 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
       "content": "типо я на членах",
       "time": "2026-07-22T13:17:57.520Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "ребят скоро откроется наша вторая точка на сервере - членские острова!)",
-      "time": "2026-07-22T13:17:54.418Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "Он мне наушники сломал !",
-      "time": "2026-07-21T06:26:37.934Z",
       "attachments": []
     }
   ]
