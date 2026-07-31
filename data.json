@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-07-31T04:35:41.849Z",
+  "updated_at": "2026-07-31T07:31:36.578Z",
   "totalMembers": 21,
-  "onlineCount": 6,
-  "voiceCount": 0,
+  "onlineCount": 9,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "ОН МНЕ НАУШНИКИ СЛОМАЛ!",
+      "time": "2026-07-31T07:26:31.989Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
+      "content": "... он мне наушники сломал?",
+      "time": "2026-07-31T07:22:40.799Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
@@ -37,25 +51,6 @@
         {
           "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1532053803283517640/image.png?ex=6a6d6e0a&is=6a6c1c8a&hm=d99c9c093dbcb7d118c46dc04bef3fe0e9bff1080adb3dd56162b95a8cf2e733&",
           "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "володя бургер когда случайно выпил антидепрессанты и пенис детонировал",
-      "time": "2026-07-29T15:48:52.912Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/0e3871d419f2b59079a342543531aab6.webp",
-      "content": "",
-      "time": "2026-07-29T15:46:57.193Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1532051815900647585/image.png?ex=6a6d6c31&is=6a6c1ab1&hm=9dfcf762701ba34ed6d8eb3a9845939a8ff5755d79bed49add04fedc43e36cb2&",
-          "contentType": "image/png"
         }
       ]
     }
