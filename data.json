@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-08-07T11:05:22.882Z",
+  "updated_at": "2026-08-07T11:53:55.761Z",
   "totalMembers": 21,
-  "onlineCount": 9,
-  "voiceCount": 4,
+  "onlineCount": 11,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/281c695de3f1c0c580a4fd56dc993e34.webp",
+      "content": "FUCK MY ASS IM TIRED OF THIS ENTITY",
+      "time": "2026-08-07T11:15:14.127Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/281c695de3f1c0c580a4fd56dc993e34.webp",
@@ -30,13 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/281c695de3f1c0c580a4fd56dc993e34.webp",
       "content": "<@984672509238583377>",
       "time": "2026-08-07T09:03:31.278Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/281c695de3f1c0c580a4fd56dc993e34.webp",
-      "content": "ОН МНЕ НАУШНИКИ СЛОМАЛ!",
-      "time": "2026-07-31T07:26:31.989Z",
       "attachments": []
     }
   ]
