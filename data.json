@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-08-09T06:26:14.380Z",
+  "updated_at": "2026-08-09T07:32:44.068Z",
   "totalMembers": 21,
-  "onlineCount": 6,
+  "onlineCount": 11,
   "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
+      "content": "",
+      "time": "2026-08-09T06:51:48.290Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1535903407897059459/image.png?ex=6a797504&is=6a782384&hm=c05db5fa6e90f5c88eddeaa9617c75425c53a7e2d016283c25b34d4f5c0dea62&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
@@ -30,13 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
       "content": "не туда но все равно зайди",
       "time": "2026-08-07T09:03:41.131Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
-      "content": "<@984672509238583377>",
-      "time": "2026-08-07T09:03:31.278Z",
       "attachments": []
     }
   ]
