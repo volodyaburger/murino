@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-08-11T08:38:48.197Z",
+  "updated_at": "2026-08-11T09:40:26.510Z",
   "totalMembers": 21,
-  "onlineCount": 9,
+  "onlineCount": 12,
   "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
+      "content": "",
+      "time": "2026-08-11T08:57:33.849Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1536659831962865734/image.png?ex=6a7c357d&is=6a7ae3fd&hm=3a8f4eaad869a692756aa2c32500c4a0df73a9032c13de7e45a34a2da90814ad&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
+      "content": "",
+      "time": "2026-08-11T08:43:43.940Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1536656351281807450/image.png?ex=6a7c323f&is=6a7ae0bf&hm=2e1211b455a1fdf76ccad1c4c28382502eba889d140d2bbc7b043d7ea82e3f9b&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
@@ -39,20 +63,6 @@
           "contentType": "image/webp"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
-      "content": "<@682260728446451773> сделай бара",
-      "time": "2026-08-09T12:09:19.874Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
-      "content": "Мы которые два часа делаем персонажа",
-      "time": "2026-08-09T12:09:15.514Z",
-      "attachments": []
     }
   ]
 }
