@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-08-11T06:27:07.965Z",
+  "updated_at": "2026-08-11T07:46:10.280Z",
   "totalMembers": 21,
-  "onlineCount": 9,
+  "onlineCount": 8,
   "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
+      "content": "",
+      "time": "2026-08-11T07:05:56.246Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1536631740322553977/image.png?ex=6a7c1b54&is=6a7ac9d4&hm=7af9d6c6694aabdcfcf763f2a26e46e5360aabfe443dd5197972fb7a115e0c5d&",
+          "contentType": "image/png"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
@@ -40,13 +52,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_512490e461bcd1b5150f4019c7544cad.gif",
       "content": "Мы которые два часа делаем персонажа",
       "time": "2026-08-09T12:09:15.514Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
-      "content": "<@682260728446451773> вот автор",
-      "time": "2026-08-09T12:08:49.946Z",
       "attachments": []
     }
   ]
