@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-15T20:55:35.011Z",
+  "updated_at": "2026-08-15T21:20:19.060Z",
   "totalMembers": 21,
-  "onlineCount": 6,
+  "onlineCount": 5,
   "voiceCount": 0,
   "messages": [
     {
@@ -11,7 +11,7 @@
       "time": "2026-08-11T08:57:33.849Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1536659831962865734/image.png?ex=6a817b7d&is=6a8029fd&hm=c705e3d1a59d703fab559e1875b72cf16fd9b29a4c90135d8aa27f8e364e0a8f&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1536659831962865734/image.png?ex=6a82243d&is=6a80d2bd&hm=9c43fd943559cdd24bb958b91aa785aaf2f68cdbebd74231175bf905a996a980&",
           "contentType": "image/webp"
         }
       ]
