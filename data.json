@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T06:45:10.701Z",
+  "updated_at": "2026-08-18T07:24:46.787Z",
   "totalMembers": 21,
-  "onlineCount": 11,
-  "voiceCount": 0,
+  "onlineCount": 10,
+  "voiceCount": 2,
   "messages": [
     {
       "author": "volodyaburger",
@@ -35,7 +35,7 @@
       "time": "2026-08-11T07:05:56.246Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1536631740322553977/image.png?ex=6a84ad14&is=6a835b94&hm=8331226905ec4cf717bb498a27d3a16442995d0530c36f2b573e7fd3934cc613&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1536631740322553977/image.png?ex=6a8555d4&is=6a840454&hm=2a87dc8f562af061c34488f65e49bff369aa4570d39e322c457ed2f305f877ca&",
           "contentType": "image/png"
         }
       ]
