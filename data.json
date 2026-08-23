@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-08-23T12:00:31.397Z",
+  "updated_at": "2026-08-23T12:58:26.673Z",
   "totalMembers": 21,
-  "onlineCount": 10,
-  "voiceCount": 0,
+  "onlineCount": 11,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "",
+      "time": "2026-08-23T12:54:04.375Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1541068005734223892/image.png?ex=6a8c3eec&is=6a8aed6c&hm=ac9ab06958c75f9e33828cf0323066322b2d6caf00290303e710bc1890afd743&",
+          "contentType": "image/webp"
+        }
+      ]
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
@@ -45,13 +57,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
       "content": "У коли ковпинца 100",
       "time": "2026-08-19T15:53:06.538Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "Сегодня тебе можно",
-      "time": "2026-08-19T15:53:04.223Z",
       "attachments": []
     }
   ]
