@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-09-09T14:24:03.300Z",
+  "updated_at": "2026-09-09T17:54:18.455Z",
   "totalMembers": 22,
-  "onlineCount": 8,
-  "voiceCount": 0,
+  "onlineCount": 9,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "<@885138792133050439>",
+      "time": "2026-09-09T16:39:22.406Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "https://www.youtube.com/watch?v=-OhJ8WYAVyg",
+      "time": "2026-09-09T16:39:11.676Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
@@ -32,30 +46,6 @@
         {
           "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1547174239549788231/image.png?ex=6aa275cb&is=6aa1244b&hm=b24cd0fe62ffde6fb7aa65706032c6a7899ff52938e26cfc5dd37673be7b349e&",
           "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "",
-      "time": "2026-09-09T08:49:00.295Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1547166926248214559/image.png?ex=6aa26efc&is=6aa11d7c&hm=7918129336bb16c26bc25948f4e3d31987b9491c84889e1eb36d5664f3815af0&",
-          "contentType": "image/webp"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "",
-      "time": "2026-09-09T08:31:11.836Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1547162444919476325/image.png?ex=6aa26acf&is=6aa1194f&hm=be25811efabd99efebf6dc67609ef2f4f9a71f52750c8a358ae13770f72c0894&",
-          "contentType": "image/png"
         }
       ]
     }
