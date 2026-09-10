@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-09-10T09:50:48.792Z",
+  "updated_at": "2026-09-10T14:04:45.034Z",
   "totalMembers": 22,
-  "onlineCount": 9,
+  "onlineCount": 10,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
+      "content": "ебать трек имба ёбнутая",
+      "time": "2026-09-10T12:30:00.851Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
@@ -32,20 +39,8 @@
       "time": "2026-09-09T09:55:05.959Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1547183559935131698/image.png?ex=6aa32739&is=6aa1d5b9&hm=2d674c7b7a4204ea6135a7bebf1077b78f01d493dc5239d506b832d7b8826921&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1547183559935131698/image.png?ex=6aa3cff9&is=6aa27e79&hm=9d6bdd27c049610b70f05d0e67ca14618ec306984b66f17eba88bebf56e40af3&",
           "contentType": "image/png"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "",
-      "time": "2026-09-09T09:18:03.920Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1547174239549788231/image.png?ex=6aa3c74b&is=6aa275cb&hm=bf6f3a86dd6999faf4b3462cb60bb795680872ec871be7488f81765b65ac9fb1&",
-          "contentType": "image/webp"
         }
       ]
     }
