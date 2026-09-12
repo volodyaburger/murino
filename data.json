@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-12T16:00:01.851Z",
+  "updated_at": "2026-09-12T18:17:42.299Z",
   "totalMembers": 22,
-  "onlineCount": 12,
+  "onlineCount": 9,
   "voiceCount": 0,
   "messages": [
     {
@@ -32,7 +32,7 @@
       "time": "2026-09-11T16:30:30.021Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1548007841015791716/image.png?ex=6aa626e5&is=6aa4d565&hm=72ea77710405487d525858de76602648b122176942f0794c3ff0a3ebfbb4c830&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1548007841015791716/image.png?ex=6aa6cfa5&is=6aa57e25&hm=9a6cb54178854bd84b7f1aa96d9f851ab1140f906375151510c16270d7c8a032&",
           "contentType": "image/png"
         }
       ]
@@ -44,7 +44,7 @@
       "time": "2026-09-11T16:30:14.862Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1548007777505640579/image.png?ex=6aa626d6&is=6aa4d556&hm=fdfce242ed5d5014330a4029ddabf297eed1ff5a5e4dd4631a994bd51326fda2&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1548007777505640579/image.png?ex=6aa6cf96&is=6aa57e16&hm=bf76e7e8954913e22b4825df4d729b05354e0287957d3392b067108034169e67&",
           "contentType": "image/png"
         }
       ]
