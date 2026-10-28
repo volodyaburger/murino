@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-10-28T05:30:41.088Z",
-  "totalMembers": 25,
-  "onlineCount": 8,
-  "voiceCount": 0,
+  "updated_at": "2026-10-28T11:35:56.698Z",
+  "totalMembers": 26,
+  "onlineCount": 11,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
+      "content": "Жизнь это череда событий мешающих играть в брик ригс",
+      "time": "2026-10-28T09:45:40.093Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
@@ -25,7 +32,7 @@
       "time": "2026-10-08T10:04:23.793Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1557695143702696040/vlc-record-2026-10-08-20h02m27s-Replay_2026-10-08_20-00-46.mp4-.mp4?ex=6ae27166&is=6ae11fe6&hm=73ee68354b2117634a1bb0baaf988a2ec3012ad85a1d92b12b1b9cec51206b98&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1557695143702696040/vlc-record-2026-10-08-20h02m27s-Replay_2026-10-08_20-00-46.mp4-.mp4?ex=6ae31a26&is=6ae1c8a6&hm=9f4595b514551b71473803a2dd6953a9d19b158204b47cac548c91ac7116bf06&",
           "contentType": "video/mp4"
         }
       ]
@@ -36,18 +43,6 @@
       "content": "@everyone",
       "time": "2026-10-08T09:24:08.556Z",
       "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "",
-      "time": "2026-10-08T09:24:06.298Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1557685007349194872/image.png?ex=6ae267f6&is=6ae11676&hm=fa76a92fa748a5e53d165ab910d260c58f91e67123e89b775565efdd8bc85173&",
-          "contentType": "image/png"
-        }
-      ]
     }
   ]
 }
