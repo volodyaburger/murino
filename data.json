@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-10-30T02:57:05.725Z",
+  "updated_at": "2026-10-30T09:45:52.843Z",
   "totalMembers": 26,
-  "onlineCount": 7,
+  "onlineCount": 11,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "@everyone",
+      "time": "2026-10-30T07:16:43.668Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "",
+      "time": "2026-10-30T07:16:36.501Z",
+      "attachments": []
+    },
     {
       "author": "bazzirovaniy_minion",
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
@@ -23,25 +37,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
       "content": "Привет поздравляем с дэрэ <@1097807574646132767> <@391467489818836992> им обоим исполняется 20 лет итд",
       "time": "2026-10-15T02:00:05.279Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "",
-      "time": "2026-10-08T10:04:23.793Z",
-      "attachments": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1557695143702696040/vlc-record-2026-10-08-20h02m27s-Replay_2026-10-08_20-00-46.mp4-.mp4?ex=6ae51466&is=6ae3c2e6&hm=9f395b7353b3fc13fab61b6adf90486aec0f0dd77db261dfae561ef0dc59ecf2&",
-          "contentType": "video/mp4"
-        }
-      ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "@everyone",
-      "time": "2026-10-08T09:24:08.556Z",
       "attachments": []
     }
   ]
