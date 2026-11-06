@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-11-06T01:09:14.359Z",
+  "updated_at": "2026-11-06T07:54:46.520Z",
   "totalMembers": 26,
-  "onlineCount": 4,
+  "onlineCount": 7,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "👌",
+      "time": "2026-11-06T07:29:50.836Z",
+      "attachments": []
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "",
+      "time": "2026-11-06T07:16:38.937Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
@@ -28,20 +42,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
       "content": "",
       "time": "2026-10-30T07:16:36.501Z",
-      "attachments": []
-    },
-    {
-      "author": "bazzirovaniy_minion",
-      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
-      "content": "Жизнь это череда событий мешающих играть в брик ригс",
-      "time": "2026-10-28T09:45:40.093Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "@everyone",
-      "time": "2026-10-15T02:00:09.514Z",
       "attachments": []
     }
   ]
