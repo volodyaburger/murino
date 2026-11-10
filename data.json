@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-11-09T20:43:03.599Z",
+  "updated_at": "2026-11-10T02:57:59.075Z",
   "totalMembers": 26,
-  "onlineCount": 8,
+  "onlineCount": 5,
   "voiceCount": 0,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "",
+      "time": "2026-11-09T22:07:43.724Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1569473591689355334/IMG_9978.jpg?ex=6af395af&is=6af2442f&hm=50c1a2478e308bbd7fdfefa56f32b76a2ebc7fe6609b99457c5a7adfc384493f&",
+          "contentType": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "author": "bazzirovaniy_minion",
+      "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
+      "content": "https://cdn.discordapp.com/attachments/1015012244582563860/1569453852636483604/VID_20261105_225524_563.gif",
+      "time": "2026-11-09T22:02:37.374Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
@@ -25,24 +44,10 @@
       "time": "2026-11-05T22:04:34.718Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1568023247306498109/image.png?ex=6af2ec32&is=6af19ab2&hm=f868505612435a56b39c3748b93a24ebb64492514e366a56b3116db141e07c3e&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1568023247306498109/image.png?ex=6af394f2&is=6af24372&hm=5fb029670ee6fda9d43f1b182ec60c4659c300bc8f7b610254b318d38d3cb088&",
           "contentType": "image/png"
         }
       ]
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "@everyone",
-      "time": "2026-10-30T07:16:43.668Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "",
-      "time": "2026-10-30T07:16:36.501Z",
-      "attachments": []
     }
   ]
 }
