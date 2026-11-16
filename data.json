@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-16T14:55:30.405Z",
+  "updated_at": "2026-11-16T23:38:53.116Z",
   "totalMembers": 26,
-  "onlineCount": 13,
-  "voiceCount": 2,
+  "onlineCount": 7,
+  "voiceCount": 0,
   "messages": [
     {
       "author": "volodyaburger",
@@ -30,7 +30,7 @@
       "time": "2026-11-14T07:03:31.382Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1571057980114214982/image.png?ex=6afbfc43&is=6afaaac3&hm=8e5596d93d6bb34cab12900274ebf816b61f1a3f86274ef85f6b4d8f591d5405&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1571057980114214982/image.png?ex=6afca503&is=6afb5383&hm=29090928d711952da108ebb4bb82f2e6604d9ea069202ba28b85a7ef9794311a&",
           "contentType": "image/png"
         }
       ]
@@ -42,7 +42,7 @@
       "time": "2026-11-09T22:07:43.724Z",
       "attachments": [
         {
-          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1569473591689355334/IMG_9978.jpg?ex=6afc276f&is=6afad5ef&hm=ff09bb121fe73f63cc19172fb7008357c1755a95bffaab3715c2bb93e490896c&",
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1569473591689355334/IMG_9978.jpg?ex=6afcd02f&is=6afb7eaf&hm=ff11726fd3a5571854b9c58e31934ebfd946c8852d6372c9e93cfca0eef32e46&",
           "contentType": "image/jpeg"
         }
       ]
