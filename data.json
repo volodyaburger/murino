@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-11-15T23:57:34.852Z",
-  "totalMembers": 25,
-  "onlineCount": 7,
-  "voiceCount": 0,
+  "updated_at": "2026-11-16T05:51:58.084Z",
+  "totalMembers": 26,
+  "onlineCount": 9,
+  "voiceCount": 3,
   "messages": [
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "dev sneak peak......",
+      "time": "2026-11-16T02:11:20.867Z",
+      "attachments": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/1414127533917605999/1571709227594940498/image.png?ex=6afbb7c8&is=6afa6648&hm=4a00f938ab3ee411ada692d0d643cbe2f7bce44bed03b5862be61fcc1e940884&",
+          "contentType": "image/png"
+        }
+      ]
+    },
+    {
+      "author": "volodyaburger",
+      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
+      "content": "зимняя сборка шоукейс",
+      "time": "2026-11-16T01:48:17.692Z",
+      "attachments": []
+    },
     {
       "author": "volodyaburger",
       "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
@@ -33,20 +52,6 @@
       "avatar": "https://cdn.discordapp.com/avatars/885138792133050439/e8842eeb24dd74e298192e4de815c9ec.webp",
       "content": "https://cdn.discordapp.com/attachments/1015012244582563860/1569453852636483604/VID_20261105_225524_563.gif",
       "time": "2026-11-09T22:02:37.374Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "👌",
-      "time": "2026-11-06T07:29:50.836Z",
-      "attachments": []
-    },
-    {
-      "author": "volodyaburger",
-      "avatar": "https://cdn.discordapp.com/avatars/800940579461922826/a_02fc40eefa3a4c0eba30838a31295fed.gif",
-      "content": "",
-      "time": "2026-11-06T07:16:38.937Z",
       "attachments": []
     }
   ]
